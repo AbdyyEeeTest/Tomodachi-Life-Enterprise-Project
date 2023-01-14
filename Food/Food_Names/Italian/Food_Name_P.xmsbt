@@ -1,0 +1,1299 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<xmsbt>
+	<entry label="fd_shu_cream">
+		<text></text>
+	</entry>
+	<entry label="fd_zenzai">
+		<text></text>
+	</entry>
+	<entry label="fd_softcream">
+		<text>coni gelato</text>
+	</entry>
+	<entry label="fd_matsutake">
+		<text></text>
+	</entry>
+	<entry label="fd_mashed_potato">
+		<text>purè di patate</text>
+	</entry>
+	<entry label="fd_brownie">
+		<text></text>
+	</entry>
+	<entry label="fd_harumaki">
+		<text>involtini primavera</text>
+	</entry>
+	<entry label="fd_kankoku_reimen">
+		<text></text>
+	</entry>
+	<entry label="fd_chicken_tikka_masala">
+		<text>polli tikka masala</text>
+	</entry>
+	<entry label="fd_salad">
+		<text>insalate</text>
+	</entry>
+	<entry label="fd_minestrone">
+		<text>minestroni</text>
+	</entry>
+	<entry label="fd_sauerkraut">
+		<text>crauti</text>
+	</entry>
+	<entry label="fd_kr_meron">
+		<text></text>
+	</entry>
+	<entry label="fd_dango">
+		<text></text>
+	</entry>
+	<entry label="fd_kiwi">
+		<text>kiwi</text>
+	</entry>
+	<entry label="fd_salami">
+		<text>salame</text>
+	</entry>
+	<entry label="fd_hayashi_rice">
+		<text></text>
+	</entry>
+	<entry label="fd_shirokoro_horumon">
+		<text></text>
+	</entry>
+	<entry label="fd_ikasumi_pasta">
+		<text>pasta al nero di seppia</text>
+	</entry>
+	<entry label="fd_moule">
+		<text>cozze</text>
+	</entry>
+	<entry label="fd_fried_tofu">
+		<text></text>
+	</entry>
+	<entry label="fd_orange_juice">
+		<text>succhi d'arancia</text>
+	</entry>
+	<entry label="fd_chikuwa">
+		<text></text>
+	</entry>
+	<entry label="fd_candy">
+		<text>lecca-lecca</text>
+	</entry>
+	<entry label="fd_sekihan">
+		<text></text>
+	</entry>
+	<entry label="fd_veggie_burger">
+		<text></text>
+	</entry>
+	<entry label="fd_sashimi">
+		<text></text>
+	</entry>
+	<entry label="fd_taiyaki">
+		<text></text>
+	</entry>
+	<entry label="fd_sippai_ryouri">
+		<text>piatti mal riusciti</text>
+	</entry>
+	<entry label="fd_barbeque">
+		<text></text>
+	</entry>
+	<entry label="fd_kr_gyouza">
+		<text></text>
+	</entry>
+	<entry label="fd_conbini_bento">
+		<text></text>
+	</entry>
+	<entry label="fd_ika_ring">
+		<text>calamari fritti</text>
+	</entry>
+	<entry label="fd_stuffing">
+		<text></text>
+	</entry>
+	<entry label="fd_candy_corn">
+		<text></text>
+	</entry>
+	<entry label="fd_yakisoba">
+		<text>yakisoba</text>
+	</entry>
+	<entry label="fd_lasagna">
+		<text>lasagne</text>
+	</entry>
+	<entry label="fd_oatmeal_cookies">
+		<text></text>
+	</entry>
+	<entry label="fd_fried_seafood_mix">
+		<text>grigliate miste di pesce</text>
+	</entry>
+	<entry label="fd_kabi_pan">
+		<text>pane ammuffito</text>
+	</entry>
+	<entry label="fd_hamburg">
+		<text>svizzere</text>
+	</entry>
+	<entry label="fd_pudding">
+		<text>budini</text>
+	</entry>
+	<entry label="fd_korokke">
+		<text>crocchette</text>
+	</entry>
+	<entry label="fd_cup_nudle">
+		<text>ramen istantaneo</text>
+	</entry>
+	<entry label="fd_sundepokku">
+		<text></text>
+	</entry>
+	<entry label="fd_inarizushi">
+		<text></text>
+	</entry>
+	<entry label="fd_tai_ikedukuri">
+		<text></text>
+	</entry>
+	<entry label="fd_corn_dog">
+		<text></text>
+	</entry>
+	<entry label="fd_ebifurai">
+		<text>gamberetti fritti</text>
+	</entry>
+	<entry label="fd_syumai">
+		<text>ravioli al vapore</text>
+	</entry>
+	<entry label="fd_shinsen_na_hakusai">
+		<text></text>
+	</entry>
+	<entry label="fd_doughnuts">
+		<text>ciambelle</text>
+	</entry>
+	<entry label="fd_coconut">
+		<text>noci di cocco</text>
+	</entry>
+	<entry label="fd_cornflakes">
+		<text>fiocchi di mais</text>
+	</entry>
+	<entry label="fd_tomato">
+		<text>pomodori</text>
+	</entry>
+	<entry label="fd_tendon">
+		<text></text>
+	</entry>
+	<entry label="fd_pumpkin_pie">
+		<text></text>
+	</entry>
+	<entry label="fd_popcorn_shrimp">
+		<text></text>
+	</entry>
+	<entry label="fd_karaage">
+		<text>polli fritti</text>
+	</entry>
+	<entry label="fd_melon">
+		<text>fette di melone</text>
+	</entry>
+	<entry label="fd_sports_drink">
+		<text></text>
+	</entry>
+	<entry label="fd_nudle">
+		<text>ramen</text>
+	</entry>
+	<entry label="fd_ebi_chili">
+		<text>gamberetti al chili</text>
+	</entry>
+	<entry label="fd_uni">
+		<text></text>
+	</entry>
+	<entry label="fd_schnitzel">
+		<text>cotolette</text>
+	</entry>
+	<entry label="fd_carrot_cake">
+		<text></text>
+	</entry>
+	<entry label="fd_youkan">
+		<text></text>
+	</entry>
+	<entry label="fd_split_pea_soup">
+		<text></text>
+	</entry>
+	<entry label="fd_medama_yaki">
+		<text>uova all'occhio di bue</text>
+	</entry>
+	<entry label="fd_konnyaku">
+		<text></text>
+	</entry>
+	<entry label="fd_beef_Jerky">
+		<text></text>
+	</entry>
+	<entry label="fd_buffalo_wings">
+		<text></text>
+	</entry>
+	<entry label="fd_jyajyamen">
+		<text></text>
+	</entry>
+	<entry label="fd_eiyou_drink">
+		<text></text>
+	</entry>
+	<entry label="fd_nikuman">
+		<text>fagottini di carne</text>
+	</entry>
+	<entry label="fd_sundobu_tige">
+		<text></text>
+	</entry>
+	<entry label="fd_curry_rice">
+		<text></text>
+	</entry>
+	<entry label="fd_jelly">
+		<text>gelatine</text>
+	</entry>
+	<entry label="fd_giri_choco">
+		<text>scatole di cioccolatini</text>
+	</entry>
+	<entry label="fd_child_lunch">
+		<text></text>
+	</entry>
+	<entry label="fd_syokupan">
+		<text>pane bianco</text>
+	</entry>
+	<entry label="fd_hamburger">
+		<text>cheeseburger</text>
+	</entry>
+	<entry label="fd_cheese">
+		<text>formaggio</text>
+	</entry>
+	<entry label="fd_pesto_pasta">
+		<text>pasta al pesto</text>
+	</entry>
+	<entry label="fd_kakigori">
+		<text></text>
+	</entry>
+	<entry label="fd_togarashi">
+		<text>peperoncini</text>
+	</entry>
+	<entry label="fd_banana">
+		<text>banane</text>
+	</entry>
+	<entry label="fd_mabo_tofu">
+		<text></text>
+	</entry>
+	<entry label="fd_tomato_juice">
+		<text>succhi di pomodoro</text>
+	</entry>
+	<entry label="fd_couscous">
+		<text>cuscus</text>
+	</entry>
+	<entry label="fd_Jamon iberico">
+		<text>prosciutto iberico</text>
+	</entry>
+	<entry label="fd_ebi_pirafu">
+		<text>risotti ai gamberetti</text>
+	</entry>
+	<entry label="fd_cha_han">
+		<text></text>
+	</entry>
+	<entry label="fd_ringo_ame">
+		<text>mele caramellate</text>
+	</entry>
+	<entry label="fd_yakiimo">
+		<text></text>
+	</entry>
+	<entry label="fd_onion_gratin_soup">
+		<text>zuppe di cipolle gratinate</text>
+	</entry>
+	<entry label="fd_gakkou_kyusyoku">
+		<text></text>
+	</entry>
+	<entry label="fd_kanjyankejyan">
+		<text></text>
+	</entry>
+	<entry label="fd_kitsune_udon">
+		<text></text>
+	</entry>
+	<entry label="fd_peanut">
+		<text>arachidi</text>
+	</entry>
+	<entry label="fd_scone">
+		<text>focaccine scozzesi</text>
+	</entry>
+	<entry label="fd_rootbeer_float">
+		<text></text>
+	</entry>
+	<entry label="fd_cordero_asado">
+		<text>agnelli arrosto</text>
+	</entry>
+	<entry label="fd_pistachio">
+		<text>pistacchi</text>
+	</entry>
+	<entry label="fd_boiled_egg">
+		<text>uova sode</text>
+	</entry>
+	<entry label="fd_apple">
+		<text>mele</text>
+	</entry>
+	<entry label="fd_sunflower_seeds">
+		<text>semi di girasole</text>
+	</entry>
+	<entry label="fd_gugelhupf">
+		<text>gugelhupf</text>
+	</entry>
+	<entry label="fd_kakuteki">
+		<text></text>
+	</entry>
+	<entry label="fd_banana_kawa">
+		<text>bucce di banana</text>
+	</entry>
+	<entry label="fd_mentaiko">
+		<text></text>
+	</entry>
+	<entry label="fd_soumen">
+		<text></text>
+	</entry>
+	<entry label="fd_custard_pastry">
+		<text>pastel de nata</text>
+	</entry>
+	<entry label="fd_fish_chips">
+		<text>fish and chips</text>
+	</entry>
+	<entry label="fd_protein">
+		<text>integratori proteici</text>
+	</entry>
+	<entry label="fd_currypan">
+		<text></text>
+	</entry>
+	<entry label="fd_yakitori">
+		<text>yakitori</text>
+	</entry>
+	<entry label="fd_monzya_yaki">
+		<text></text>
+	</entry>
+	<entry label="fd_baked_potato">
+		<text></text>
+	</entry>
+	<entry label="fd_smores">
+		<text></text>
+	</entry>
+	<entry label="fd_kimuti_chahan">
+		<text></text>
+	</entry>
+	<entry label="fd_kaki">
+		<text></text>
+	</entry>
+	<entry label="fd_chirashi_sushi">
+		<text></text>
+	</entry>
+	<entry label="fd_yakupabu">
+		<text></text>
+	</entry>
+	<entry label="fd_namuru">
+		<text></text>
+	</entry>
+	<entry label="fd_guratan">
+		<text>gratin</text>
+	</entry>
+	<entry label="fd_subuta">
+		<text>maiale in agrodolce</text>
+	</entry>
+	<entry label="fd_hot_dog">
+		<text>hot dog</text>
+	</entry>
+	<entry label="fd_mix_juice">
+		<text>frullati</text>
+	</entry>
+	<entry label="fd_profiteroles">
+		<text>profiterole</text>
+	</entry>
+	<entry label="fd_neko_manma">
+		<text></text>
+	</entry>
+	<entry label="fd_egg_nog">
+		<text></text>
+	</entry>
+	<entry label="fd_corn">
+		<text>pannocchie</text>
+	</entry>
+	<entry label="fd_pekin_duck">
+		<text>anatre alla pechinese</text>
+	</entry>
+	<entry label="fd_black_forest_gateau">
+		<text>torte foresta nera</text>
+	</entry>
+	<entry label="fd_saltimbocca">
+		<text>saltimbocca alla romana</text>
+	</entry>
+	<entry label="fd_japanese_tea">
+		<text>tè verdi</text>
+	</entry>
+	<entry label="fd_muffin">
+		<text>muffin</text>
+	</entry>
+	<entry label="fd_pear">
+		<text>pere</text>
+	</entry>
+	<entry label="fd_baguette">
+		<text>baguette</text>
+	</entry>
+	<entry label="fd_suyuku">
+		<text></text>
+	</entry>
+	<entry label="fd_yongebessuku">
+		<text></text>
+	</entry>
+	<entry label="fd_croissant">
+		<text>cornetti</text>
+	</entry>
+	<entry label="fd_abokado">
+		<text>avocado</text>
+	</entry>
+	<entry label="fd_oyster">
+		<text>ostriche</text>
+	</entry>
+	<entry label="fd_una_zyu">
+		<text></text>
+	</entry>
+	<entry label="fd_mochi">
+		<text></text>
+	</entry>
+	<entry label="fd_tea">
+		<text>tè</text>
+	</entry>
+	<entry label="fd_celery">
+		<text>sedani</text>
+	</entry>
+	<entry label="fd_chicken_noodle_soup">
+		<text></text>
+	</entry>
+	<entry label="fd_carrot">
+		<text>carote</text>
+	</entry>
+	<entry label="fd_icy_pop">
+		<text></text>
+	</entry>
+	<entry label="fd_kourai_ninjin">
+		<text></text>
+	</entry>
+	<entry label="fd_crepe">
+		<text>crêpe</text>
+	</entry>
+	<entry label="fd_canned_sardines">
+		<text></text>
+	</entry>
+	<entry label="fd_pork_pie">
+		<text>pasticci di carne</text>
+	</entry>
+	<entry label="fd_kr_subuta">
+		<text></text>
+	</entry>
+	<entry label="fd_sousage">
+		<text>würstel</text>
+	</entry>
+	<entry label="fd_stew">
+		<text>stufati di carne</text>
+	</entry>
+	<entry label="fd_kr_nori">
+		<text></text>
+	</entry>
+	<entry label="fd_oatmeal">
+		<text></text>
+	</entry>
+	<entry label="fd_souffle">
+		<text>soufflé</text>
+	</entry>
+	<entry label="fd_toufu_kimuti">
+		<text></text>
+	</entry>
+	<entry label="fd_oyatu">
+		<text></text>
+	</entry>
+	<entry label="fd_samugyopusaru">
+		<text></text>
+	</entry>
+	<entry label="fd_omelet">
+		<text>omelette</text>
+	</entry>
+	<entry label="fd_tofu">
+		<text>tofu</text>
+	</entry>
+	<entry label="fd_namahamu">
+		<text>prosciutto</text>
+	</entry>
+	<entry label="fd_granola_parfait">
+		<text></text>
+	</entry>
+	<entry label="fd_cannoli">
+		<text>cannoli</text>
+	</entry>
+	<entry label="fd_walnut">
+		<text>noci</text>
+	</entry>
+	<entry label="fd_yukke">
+		<text></text>
+	</entry>
+	<entry label="fd_pizza">
+		<text>tranci di pizza</text>
+	</entry>
+	<entry label="fd_porridge">
+		<text>pappe d'avena</text>
+	</entry>
+	<entry label="fd_cherimoya">
+		<text>cirimole</text>
+	</entry>
+	<entry label="fd_cornish_pasty">
+		<text>pasticci farciti</text>
+	</entry>
+	<entry label="fd_kyabia">
+		<text>caviale</text>
+	</entry>
+	<entry label="fd_kr_gohan">
+		<text></text>
+	</entry>
+	<entry label="fd_shiso_no_happazuke">
+		<text></text>
+	</entry>
+	<entry label="fd_namaharumaki">
+		<text>involtini primavera freschi</text>
+	</entry>
+	<entry label="fd_cherry_pie">
+		<text></text>
+	</entry>
+	<entry label="fd_chocolate_bread">
+		<text>brioche al cioccolato</text>
+	</entry>
+	<entry label="fd_fancy_cupcake">
+		<text></text>
+	</entry>
+	<entry label="fd_karubonara">
+		<text>carbonara</text>
+	</entry>
+	<entry label="fd_chanko_nabe">
+		<text></text>
+	</entry>
+	<entry label="fd_pretzel">
+		<text>brezel</text>
+	</entry>
+	<entry label="fd_yoghourt">
+		<text>yogurt</text>
+	</entry>
+	<entry label="fd_garlic">
+		<text>aglio</text>
+	</entry>
+	<entry label="fd_onion_rings">
+		<text></text>
+	</entry>
+	<entry label="fd_buche_de_noel">
+		<text>tronchetti</text>
+	</entry>
+	<entry label="fd_zarusoba">
+		<text></text>
+	</entry>
+	<entry label="fd_birthday_cake">
+		<text>torte di compleanno</text>
+	</entry>
+	<entry label="fd_cutlet">
+		<text>costolette di maiale</text>
+	</entry>
+	<entry label="fd_coleslaw">
+		<text></text>
+	</entry>
+	<entry label="fd_rice">
+		<text>riso</text>
+	</entry>
+	<entry label="fd_grape">
+		<text>uva</text>
+	</entry>
+	<entry label="fd_foie_gras ">
+		<text></text>
+	</entry>
+	<entry label="fd_kr_miso_tige">
+		<text></text>
+	</entry>
+	<entry label="fd_osechi">
+		<text></text>
+	</entry>
+	<entry label="fd_tacos">
+		<text>tacos</text>
+	</entry>
+	<entry label="fd_peanut_butter_jelly_sandwich">
+		<text></text>
+	</entry>
+	<entry label="fd_blue_cheese">
+		<text>formaggio con muffa</text>
+	</entry>
+	<entry label="fd_macaron">
+		<text>macaron</text>
+	</entry>
+	<entry label="fd_takoyaki">
+		<text></text>
+	</entry>
+	<entry label="fd_surume">
+		<text></text>
+	</entry>
+	<entry label="fd_kasuziru">
+		<text></text>
+	</entry>
+	<entry label="fd_ice_cream_sandwich">
+		<text></text>
+	</entry>
+	<entry label="fd_yerba_mate">
+		<text></text>
+	</entry>
+	<entry label="fd_kissyu">
+		<text>quiche</text>
+	</entry>
+	<entry label="fd_risotto">
+		<text>risotti</text>
+	</entry>
+	<entry label="fd_peperoncino">
+		<text>spaghetti aglio e olio</text>
+	</entry>
+	<entry label="fd_banana_split">
+		<text></text>
+	</entry>
+	<entry label="fd_makuwauri">
+		<text></text>
+	</entry>
+	<entry label="fd_onigiri">
+		<text></text>
+	</entry>
+	<entry label="fd_wataame">
+		<text>zucchero filato</text>
+	</entry>
+	<entry label="fd_salmon_munieru">
+		<text>salmone alla mugnaia</text>
+	</entry>
+	<entry label="fd_pain_aux_raisins">
+		<text>brioche all'uvetta</text>
+	</entry>
+	<entry label="fd_marzipan_fruit">
+		<text>frutta di marzapane</text>
+	</entry>
+	<entry label="fd_saltine_crackers">
+		<text></text>
+	</entry>
+	<entry label="fd_sazae">
+		<text></text>
+	</entry>
+	<entry label="fd_frozen_yogurt">
+		<text></text>
+	</entry>
+	<entry label="fd_tapa">
+		<text>tapas</text>
+	</entry>
+	<entry label="fd_kr_tougarashi">
+		<text></text>
+	</entry>
+	<entry label="fd_biscuit">
+		<text>cracker</text>
+	</entry>
+	<entry label="fd_edamame">
+		<text></text>
+	</entry>
+	<entry label="fd_rollmop">
+		<text>filetti d'aringa</text>
+	</entry>
+	<entry label="fd_churros">
+		<text>churro</text>
+	</entry>
+	<entry label="fd_spinach">
+		<text>spinaci</text>
+	</entry>
+	<entry label="fd_asparagus_boiled_ham_sauce">
+		<text>prosciutto e asparagi</text>
+	</entry>
+	<entry label="fd_melanzane_alla_parmigiana">
+		<text>parmigiane di melanzane</text>
+	</entry>
+	<entry label="fd_meatball">
+		<text>polpette</text>
+	</entry>
+	<entry label="fd_potato_omelette">
+		<text>frittate di patate</text>
+	</entry>
+	<entry label="fd_prawn_salad">
+		<text>insalate di gamberetti</text>
+	</entry>
+	<entry label="fd_elephant_ear">
+		<text></text>
+	</entry>
+	<entry label="fd_samugetan">
+		<text></text>
+	</entry>
+	<entry label="fd_kamujyatan">
+		<text></text>
+	</entry>
+	<entry label="fd_hiyashi_tyuka">
+		<text></text>
+	</entry>
+	<entry label="fd_olive">
+		<text>olive</text>
+	</entry>
+	<entry label="fd_baked_beans">
+		<text></text>
+	</entry>
+	<entry label="fd_ratatouille">
+		<text>ratatouille</text>
+	</entry>
+	<entry label="fd_ravioli">
+		<text>ravioli</text>
+	</entry>
+	<entry label="fd_duck_orange">
+		<text></text>
+	</entry>
+	<entry label="fd_kimuti_tige">
+		<text></text>
+	</entry>
+	<entry label="fd_tamago_yaki">
+		<text></text>
+	</entry>
+	<entry label="fd_yaki_guri">
+		<text>caldarroste</text>
+	</entry>
+	<entry label="fd_pancake">
+		<text>pancake</text>
+	</entry>
+	<entry label="fd_licorice">
+		<text>liquirizie</text>
+	</entry>
+	<entry label="fd_herring">
+		<text>aringhe</text>
+	</entry>
+	<entry label="fd_gumi">
+		<text>caramelle gommose</text>
+	</entry>
+	<entry label="fd_roast_chicken">
+		<text>polli arrosto</text>
+	</entry>
+	<entry label="fd_gyoza">
+		<text></text>
+	</entry>
+	<entry label="fd_cake">
+		<text>torte di fragole</text>
+	</entry>
+	<entry label="fd_tonkatsu">
+		<text></text>
+	</entry>
+	<entry label="fd_omurice">
+		<text></text>
+	</entry>
+	<entry label="fd_cinnamon_roll">
+		<text></text>
+	</entry>
+	<entry label="fd_salad_olivier">
+		<text>insalate russe</text>
+	</entry>
+	<entry label="fd_beans_on_toast">
+		<text>toast e fagioli</text>
+	</entry>
+	<entry label="fd_insalata_caprese">
+		<text>insalate capresi</text>
+	</entry>
+	<entry label="fd_odennabe">
+		<text></text>
+	</entry>
+	<entry label="fd_kyuri_no_kimuti">
+		<text></text>
+	</entry>
+	<entry label="fd_cookie">
+		<text></text>
+	</entry>
+	<entry label="fd_zyaga_bata">
+		<text>patate al forno</text>
+	</entry>
+	<entry label="fd_choco_parfait">
+		<text>dessert al cioccolato</text>
+	</entry>
+	<entry label="fd_miso_soup">
+		<text></text>
+	</entry>
+	<entry label="fd_nikujaga">
+		<text>spezzatino con patate</text>
+	</entry>
+	<entry label="fd_cheesacake">
+		<text>cheesecake</text>
+	</entry>
+	<entry label="fd_potof">
+		<text>bolliti alla francese</text>
+	</entry>
+	<entry label="fd_lemonade">
+		<text>limonate</text>
+	</entry>
+	<entry label="fd_bubble_tea">
+		<text></text>
+	</entry>
+	<entry label="fd_dorayaki">
+		<text></text>
+	</entry>
+	<entry label="fd_tiramisu">
+		<text>tiramisù</text>
+	</entry>
+	<entry label="fd_brussel_sprouts">
+		<text>cavoletti di Bruxelles</text>
+	</entry>
+	<entry label="fd_panini">
+		<text>panini</text>
+	</entry>
+	<entry label="fd_fudge">
+		<text>fudge</text>
+	</entry>
+	<entry label="fd_fried_sardines">
+		<text>sardine fritte</text>
+	</entry>
+	<entry label="fd_gyu_don">
+		<text></text>
+	</entry>
+	<entry label="fd_natto">
+		<text></text>
+	</entry>
+	<entry label="fd_mikan">
+		<text>mandarini</text>
+	</entry>
+	<entry label="fd_kr_ramen">
+		<text></text>
+	</entry>
+	<entry label="fd_crab">
+		<text></text>
+	</entry>
+	<entry label="fd_mushroom">
+		<text>funghi</text>
+	</entry>
+	<entry label="fd_grits">
+		<text></text>
+	</entry>
+	<entry label="fd_string_cheese">
+		<text></text>
+	</entry>
+	<entry label="fd_panettone">
+		<text>fette di panettone</text>
+	</entry>
+	<entry label="fd_turron">
+		<text>torrone</text>
+	</entry>
+	<entry label="fd_kr_soumen">
+		<text></text>
+	</entry>
+	<entry label="fd_sweet_potato">
+		<text></text>
+	</entry>
+	<entry label="fd_turkey">
+		<text>tacchini</text>
+	</entry>
+	<entry label="fd_hukumame">
+		<text></text>
+	</entry>
+	<entry label="fd_borscht">
+		<text>borscht</text>
+	</entry>
+	<entry label="fd_anpan">
+		<text></text>
+	</entry>
+	<entry label="fd_senbei">
+		<text></text>
+	</entry>
+	<entry label="fd_cola">
+		<text>cola</text>
+	</entry>
+	<entry label="fd_katudon">
+		<text></text>
+	</entry>
+	<entry label="fd_espresso">
+		<text>espressi</text>
+	</entry>
+	<entry label="fd_cream">
+		<text>crema pasticcera</text>
+	</entry>
+	<entry label="fd_mince_pie">
+		<text>tortine ripiene</text>
+	</entry>
+	<entry label="fd_dates">
+		<text>datteri</text>
+	</entry>
+	<entry label="fd_zucchini">
+		<text>zucchine</text>
+	</entry>
+	<entry label="fd_oyako_don">
+		<text></text>
+	</entry>
+	<entry label="fd_grapefruits">
+		<text>pompelmi</text>
+	</entry>
+	<entry label="fd_marron">
+		<text>castagne</text>
+	</entry>
+	<entry label="fd_pannacotta">
+		<text>panna cotta</text>
+	</entry>
+	<entry label="fd_oden">
+		<text></text>
+	</entry>
+	<entry label="fd_cassata">
+		<text></text>
+	</entry>
+	<entry label="fd_plum_pudding">
+		<text>pudding all'uvetta</text>
+	</entry>
+	<entry label="fd_icecream">
+		<text>gelati artigianali</text>
+	</entry>
+	<entry label="fd_paella">
+		<text>paella</text>
+	</entry>
+	<entry label="fd_ishiyaki_bibinba">
+		<text></text>
+	</entry>
+	<entry label="fd_ikura">
+		<text></text>
+	</entry>
+	<entry label="fd_natillas">
+		<text>natillas</text>
+	</entry>
+	<entry label="fd_creme_brulee">
+		<text>crème brûlée</text>
+	</entry>
+	<entry label="fd_rice_pudding">
+		<text>creme di riso</text>
+	</entry>
+	<entry label="fd_toppogi">
+		<text></text>
+	</entry>
+	<entry label="fd_aisu_kaferate">
+		<text></text>
+	</entry>
+	<entry label="fd_kasutera">
+		<text>pan di Spagna</text>
+	</entry>
+	<entry label="fd_myouga">
+		<text></text>
+	</entry>
+	<entry label="fd_chamomile_tea">
+		<text>camomille</text>
+	</entry>
+	<entry label="fd_millefeuille">
+		<text>millefoglie</text>
+	</entry>
+	<entry label="fd_durian">
+		<text>durian</text>
+	</entry>
+	<entry label="fd_hash_browns">
+		<text></text>
+	</entry>
+	<entry label="fd_habanero">
+		<text></text>
+	</entry>
+	<entry label="fd_mint_candy">
+		<text>caramelle alla menta</text>
+	</entry>
+	<entry label="fd_pineapple">
+		<text>ananas</text>
+	</entry>
+	<entry label="fd_polenta">
+		<text>polenta</text>
+	</entry>
+	<entry label="fd_milkshake">
+		<text></text>
+	</entry>
+	<entry label="fd_umeboshi">
+		<text></text>
+	</entry>
+	<entry label="fd_goya">
+		<text></text>
+	</entry>
+	<entry label="fd_truffle">
+		<text>tartufi</text>
+	</entry>
+	<entry label="fd_tako">
+		<text>polpo</text>
+	</entry>
+	<entry label="fd_clam_chowder">
+		<text></text>
+	</entry>
+	<entry label="fd_hard_candy">
+		<text></text>
+	</entry>
+	<entry label="fd_pandoro">
+		<text>pandori</text>
+	</entry>
+	<entry label="fd_gato_syokora">
+		<text>torte al cioccolato</text>
+	</entry>
+	<entry label="fd_old_milk">
+		<text>latte scaduto</text>
+	</entry>
+	<entry label="fd_steak">
+		<text>bistecche</text>
+	</entry>
+	<entry label="fd_hot_chocolate">
+		<text>cioccolate calde</text>
+	</entry>
+	<entry label="fd_grilled_cheese">
+		<text></text>
+	</entry>
+	<entry label="fd_beef_bourguignon">
+		<text>manzo alla borgognona</text>
+	</entry>
+	<entry label="fd_wakame_suupu">
+		<text></text>
+	</entry>
+	<entry label="fd_gum">
+		<text>gomme da masticare</text>
+	</entry>
+	<entry label="fd_corn__soup">
+		<text>zuppe di mais</text>
+	</entry>
+	<entry label="fd_sorurontan">
+		<text></text>
+	</entry>
+	<entry label="fd_broccoli">
+		<text>broccoli</text>
+	</entry>
+	<entry label="fd_zouni">
+		<text></text>
+	</entry>
+	<entry label="fd_ayu_sioyaki">
+		<text></text>
+	</entry>
+	<entry label="fd_strawberry">
+		<text>fragole</text>
+	</entry>
+	<entry label="fd_sushi">
+		<text>sushi</text>
+	</entry>
+	<entry label="fd_tenpura">
+		<text>tempura</text>
+	</entry>
+	<entry label="fd_handmade_choco">
+		<text>cioccolatini fatti a mano</text>
+	</entry>
+	<entry label="fd_yakiniku">
+		<text>carne grigliata</text>
+	</entry>
+	<entry label="fd_kotyujyan">
+		<text></text>
+	</entry>
+	<entry label="fd_red_velvet_cake">
+		<text></text>
+	</entry>
+	<entry label="fd_aoziru">
+		<text>succhi di verdure</text>
+	</entry>
+	<entry label="fd_suika">
+		<text>angurie</text>
+	</entry>
+	<entry label="fd_bone_meat">
+		<text>cosciotti</text>
+	</entry>
+	<entry label="fd_beef_stew">
+		<text>stufati di manzo</text>
+	</entry>
+	<entry label="fd_awabi_gayu">
+		<text></text>
+	</entry>
+	<entry label="fd_zukkini_no_tijimi">
+		<text></text>
+	</entry>
+	<entry label="fd_pudetige">
+		<text></text>
+	</entry>
+	<entry label="fd_yaki_nasu">
+		<text>melanzane grigliate</text>
+	</entry>
+	<entry label="fd_magret_de_canard">
+		<text>petti d'anatra</text>
+	</entry>
+	<entry label="fd_greek_style_salad">
+		<text>insalate greche</text>
+	</entry>
+	<entry label="fd_water">
+		<text>acqua di rubinetto</text>
+	</entry>
+	<entry label="fd_gingerbread">
+		<text>pan di zenzero</text>
+	</entry>
+	<entry label="fd_chili_con_carne">
+		<text>chili con carne</text>
+	</entry>
+	<entry label="fd_tyawanmushi">
+		<text></text>
+	</entry>
+	<entry label="fd_milk">
+		<text>latte</text>
+	</entry>
+	<entry label="fd_chidimi">
+		<text></text>
+	</entry>
+	<entry label="fd_macaroni_and_cheese">
+		<text></text>
+	</entry>
+	<entry label="fd_pickles">
+		<text>cetriolini</text>
+	</entry>
+	<entry label="fd_escargot">
+		<text>lumache</text>
+	</entry>
+	<entry label="fd_cherry">
+		<text>ciliegie</text>
+	</entry>
+	<entry label="fd_apple_juice">
+		<text>succhi di mela</text>
+	</entry>
+	<entry label="fd_chicken_pot_pie">
+		<text></text>
+	</entry>
+	<entry label="fd_pibinu_reimen">
+		<text></text>
+	</entry>
+	<entry label="fd_okonomi_yaki">
+		<text></text>
+	</entry>
+	<entry label="fd_makadamia_nuts">
+		<text>noci macadamia</text>
+	</entry>
+	<entry label="fd_pop_corn">
+		<text>pop corn</text>
+	</entry>
+	<entry label="fd_chawanmushi">
+		<text></text>
+	</entry>
+	<entry label="fd_gnocchi">
+		<text>gnocchi</text>
+	</entry>
+	<entry label="fd_mozzarella">
+		<text>mozzarelle</text>
+	</entry>
+	<entry label="fd_apple_pie">
+		<text>torte di mele</text>
+	</entry>
+	<entry label="fd_coffee">
+		<text>caffè</text>
+	</entry>
+	<entry label="fd_sukiyaki">
+		<text></text>
+	</entry>
+	<entry label="fd_waffle">
+		<text>waffle</text>
+	</entry>
+	<entry label="fd_roll_cabbage">
+		<text>involtini di verza ripieni</text>
+	</entry>
+	<entry label="fd_piman">
+		<text>peperoni verdi</text>
+	</entry>
+	<entry label="fd_bread_chocolate_cream">
+		<text>pane e cioccolata</text>
+	</entry>
+	<entry label="fd_tokku">
+		<text></text>
+	</entry>
+	<entry label="fd_meatsource">
+		<text>spaghetti al ragù</text>
+	</entry>
+	<entry label="fd_space_food">
+		<text>cibo spaziale</text>
+	</entry>
+	<entry label="fd_hugusashi">
+		<text></text>
+	</entry>
+	<entry label="fd_ehou_maki">
+		<text></text>
+	</entry>
+	<entry label="fd_key_lime_pie">
+		<text></text>
+	</entry>
+	<entry label="fd_hake_fillets">
+		<text>filetti di merluzzo</text>
+	</entry>
+	<entry label="fd_tatiuo_yaki">
+		<text></text>
+	</entry>
+	<entry label="fd_potato_chips">
+		<text>patatine</text>
+	</entry>
+	<entry label="fd_bacon">
+		<text>pancetta</text>
+	</entry>
+	<entry label="fd_chapuche">
+		<text></text>
+	</entry>
+	<entry label="fd_kimuchi">
+		<text></text>
+	</entry>
+	<entry label="fd_sanma">
+		<text>pesci grigliati</text>
+	</entry>
+	<entry label="fd_cappuccino">
+		<text>cappuccini</text>
+	</entry>
+	<entry label="fd_honey">
+		<text>miele</text>
+	</entry>
+	<entry label="fd_bacalhau">
+		<text>baccalà</text>
+	</entry>
+	<entry label="fd_omijya_cha">
+		<text></text>
+	</entry>
+	<entry label="fd_chocolate">
+		<text>cioccolato</text>
+	</entry>
+	<entry label="fd_fried_potato">
+		<text>patatine fritte</text>
+	</entry>
+	<entry label="fd_french_toast">
+		<text>toast alla francese</text>
+	</entry>
+	<entry label="fd_roast_beef">
+		<text>roast beef</text>
+	</entry>
+	<entry label="fd_nachos">
+		<text></text>
+	</entry>
+	<entry label="fd_english_breakfast">
+		<text>colazioni all'inglese</text>
+	</entry>
+	<entry label="fd_sparkling_water">
+		<text>acqua gassata</text>
+	</entry>
+	<entry label="fd_peach">
+		<text>pesche</text>
+	</entry>
+	<entry label="fd_mango">
+		<text>manghi</text>
+	</entry>
+	<entry label="fd_bouillabaisse">
+		<text></text>
+	</entry>
+	<entry label="fd_filet_mignon">
+		<text></text>
+	</entry>
+	<entry label="fd_kr_natume_cha">
+		<text></text>
+	</entry>
+	<entry label="fd_ocha_duke">
+		<text></text>
+	</entry>
+	<entry label="fd_smoked_salmon">
+		<text>salmone affumicato</text>
+	</entry>
+	<entry label="fd_gazpacho">
+		<text>gazpacho</text>
+	</entry>
+	<entry label="fd_hummus">
+		<text>hummus</text>
+	</entry>
+	<entry label="fd_sandwich">
+		<text>sandwich</text>
+	</entry>
+	<entry label="fd_doner_kebap">
+		<text>kebab</text>
+	</entry>
+	<entry label="fd_lobster">
+		<text></text>
+	</entry>
+	<entry label="fd_fishcake">
+		<text>crocchette di pesce</text>
+	</entry>
+	<entry label="fd_loco_moco">
+		<text></text>
+	</entry>
+	<entry label="fd_karaage_moriawase">
+		<text></text>
+	</entry>
+	<entry label="fd_reba">
+		<text></text>
+	</entry>
+	<entry label="fd_okayu">
+		<text></text>
+	</entry>
+	<entry label="fd_spiced_apple_cider">
+		<text></text>
+	</entry>
+	<entry label="fd_kimuti_tijimi">
+		<text></text>
+	</entry>
+</xmsbt>
