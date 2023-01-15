@@ -85,7 +85,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_sippai_ryouri">
-		<text>Schandmahl</text>
+		<text>Dubiose Matsche</text>
 	</entry>
 	<entry label="fd_barbeque">
 		<text>---</text>
@@ -121,7 +121,7 @@
 		<text>Schimmelbrot</text>
 	</entry>
 	<entry label="fd_hamburg">
-		<text>Frikadelle</text>
+		<text>Rindfleischburger</text>
 	</entry>
 	<entry label="fd_pudding">
 		<text>Karamellcreme</text>
@@ -175,7 +175,7 @@
 		<text>---</text>
 	</entry>
 	<entry label="fd_karaage">
-		<text>Hähnchenteile</text>
+		<text>Chicken-Nuggets</text>
 	</entry>
 	<entry label="fd_melon">
 		<text>Honigmelone</text>
@@ -232,7 +232,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_jelly">
-		<text>Götterspeise</text>
+		<text>Schleimgelee</text>
 	</entry>
 	<entry label="fd_giri_choco">
 		<text>Pralinenschachtel</text>
@@ -316,7 +316,7 @@
 		<text>Ei</text>
 	</entry>
 	<entry label="fd_apple">
-		<text>Apfel</text>
+		<text>Apfel für Baldi</text>
 	</entry>
 	<entry label="fd_sunflower_seeds">
 		<text>Sonnenblumenkerne</text>
@@ -343,7 +343,7 @@
 		<text>Fish 'n' Chips</text>
 	</entry>
 	<entry label="fd_protein">
-		<text>Proteinshake</text>
+		<text>Krit-a-Cola</text>
 	</entry>
 	<entry label="fd_currypan">
 		<text></text>
@@ -397,13 +397,13 @@
 		<text>Eierpunsch</text>
 	</entry>
 	<entry label="fd_corn">
-		<text>Mais</text>
+		<text>Posaune</text>
 	</entry>
 	<entry label="fd_pekin_duck">
 		<text>Pekingente</text>
 	</entry>
 	<entry label="fd_black_forest_gateau">
-		<text>Schwarzwäldertorte</text>
+		<text>Teufelstörtchen</text>
 	</entry>
 	<entry label="fd_saltimbocca">
 		<text>Saltimbocca Romana</text>
@@ -577,7 +577,7 @@
 		<text>Geburtstagskuchen</text>
 	</entry>
 	<entry label="fd_cutlet">
-		<text>Kotelett</text>
+		<text>Koboldschinken</text>
 	</entry>
 	<entry label="fd_coleslaw">
 		<text>Krautsalat</text>
@@ -799,7 +799,7 @@
 		<text>Käsekuchen</text>
 	</entry>
 	<entry label="fd_potof">
-		<text>Feuertopf</text>
+		<text>Gelbes Meeresfrüchte-Curry</text>
 	</entry>
 	<entry label="fd_lemonade">
 		<text>Limonade</text>
@@ -814,10 +814,10 @@
 		<text>Tiramisu</text>
 	</entry>
 	<entry label="fd_brussel_sprouts">
-		<text>Rosenkohl</text>
+		<text>Tomodachi Life</text>
 	</entry>
 	<entry label="fd_panini">
-		<text>Panino</text>
+		<text>CGI Steak</text>
 	</entry>
 	<entry label="fd_fudge">
 		<text>Karamellbonbons</text>
@@ -877,7 +877,7 @@
 		<text>Reiscracker</text>
 	</entry>
 	<entry label="fd_cola">
-		<text>Cola</text>
+		<text>Bepis</text>
 	</entry>
 	<entry label="fd_katudon">
 		<text></text>
@@ -1006,7 +1006,7 @@
 		<text>Gammelmilch</text>
 	</entry>
 	<entry label="fd_steak">
-		<text>Steak</text>
+		<text>Golem-Steak</text>
 	</entry>
 	<entry label="fd_hot_chocolate">
 		<text>Trinkschokolade</text>
@@ -1090,7 +1090,7 @@
 		<text>Fetasalat</text>
 	</entry>
 	<entry label="fd_water">
-		<text>Leitungswasser</text>
+		<text>Banshee-Tränen</text>
 	</entry>
 	<entry label="fd_gingerbread">
 		<text>Lebkuchen</text>
@@ -1156,7 +1156,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_waffle">
-		<text>Waffel</text>
+		<text>Belgien auf dem Teller</text>
 	</entry>
 	<entry label="fd_roll_cabbage">
 		<text>Kohlroulade</text>
@@ -1192,7 +1192,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_potato_chips">
-		<text>Kartoffelchips</text>
+		<text>3D Dorito Chips</text>
 	</entry>
 	<entry label="fd_bacon">
 		<text>Speck</text>
@@ -1210,7 +1210,7 @@
 		<text>Cappuccino</text>
 	</entry>
 	<entry label="fd_honey">
-		<text>Honig</text>
+		<text>Flatterhonig</text>
 	</entry>
 	<entry label="fd_bacalhau">
 		<text>Klippfisch</text>
@@ -1219,10 +1219,10 @@
 		<text></text>
 	</entry>
 	<entry label="fd_chocolate">
-		<text>Schokolade</text>
+		<text>Felsen-Schoki</text>
 	</entry>
 	<entry label="fd_fried_potato">
-		<text>Pommes frites</text>
+		<text>Gewürzte Pommes</text>
 	</entry>
 	<entry label="fd_french_toast">
 		<text>French Toast</text>
