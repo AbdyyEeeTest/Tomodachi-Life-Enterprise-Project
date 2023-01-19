@@ -1,20 +1,20 @@
-MSBT Labels,Food,Description
-fd_sippai_ryuorui,Dubious Food,"It's too gross to even look at. Eating this  won't hurt you though . . . probably."
-fd_hamburg,Beef Burger,"Imagine it. One mouthful of tender delicious beefburger. Now eat it."
-fd_karaage,Chicken Nuggets,"Golden, crispy nuggets of deliciousness. No wonder why it's a kids favorite!"
-fd_jelly,Slime Jelly,"A light flavor accompanies the gentle wiggle. Heaven on a spoon!"
-fd_apple,Apple For Baldi,"Give it to your favourite teacher and  they'll stop everything and eat it all up!"
-fd_protein,Crit-a-cola,"A purple drink made with radioactive isotopes.The flavored drink of merks everywhere!"
-fd_corn,Trombone,"It may take a real champ to play a trombone, but it takes a mad Mii to eat one."
-fd_black_forest_gateu,Devils Food Cake,"In no way good for you. But it's so delicious, do you really care?"
-fd_potof,Yellow Seafood Curry,"A marvelous melody of seafood! We may or may not have forgotten the rice."
-fd_cutlet,Goblin Ham,"Just try to resist eating this in massive bites."
-fd_brussel_sprouts,Tomodachi Life, "The cult classic 3DS game. Now somehow inside itself! Don't ask."
-fd_panini,CGI Steak,"A digital looking steak that tastes about 60 percent like the real thing."
-fd_cola, Bepis,"Drinking this will turn you into the fabled Bepisman! . . . Maybe!"
-fd_steak,Golem Steak,"Golem Steak, Steak served on a heated golem hand! What a novel way to cook!"
-fd_water, Banshee Tears,"Slightly sweet, slightly salty.A mysterious and flavorful drink."
-fd_waffle,Belgium On A Plate,"Everyone likes Belgium waffles. Why not take things to the logical conclusion?"
-fd_potato_chips,3D Doritos,"Good ol' Doritos, Now in 3D! Taking crunch to another level."
-fd_honey,Butterfly Honey,"Made from nectar gathered from pink flowers by a discerning insect."
-fd_chocolate,Choc Rock,"Hard as a rock, but apparently that's part of the experience."
+Msbt Label,Food,Description,Attribute
+fd_sippai_ryuorui,Dubious Food,"It's too gross to even look at. Eating this  won't hurt you though . . . probably.",NSP the/a the/some
+fd_hamburg,Beef Burger,"Imagine it. One mouthful of tender delicious beefburger. Now eat it.",NSP the/a the/some
+fd_karaage,Chicken Nuggets,"Golden, crispy nuggets of deliciousness. No wonder why it's a kids favorite!",NSP the/some the/some
+fd_jelly,Slime Jelly,"A light flavor accompanies the gentle wiggle. Heaven on a spoon!", SP the/some the/some,NSP the/a the/some
+fd_apple,Apple For Baldi,"Give it to your favourite teacher and  they'll stop everything and eat it all up!",NSP the/an the/some
+fd_protein,Crit-a-cola,"A purple drink made with radioactive isotopes.The flavored drink of merks everywhere!",NSP the/some the/some
+fd_corn,Trombone,"It may take a real champ to play a trombone, but it takes a mad Mii to eat one.",NSP the/a the/some
+fd_black_forest_gateu,Devils Food Cake,"In no way good for you. But it's so delicious, do you really care?",NSS the/some the/some
+fd_potof,Yellow Seafood Curry,"A marvelous melody of seafood! We may or may not have forgotten the rice.",NSS the/some the/some
+fd_cutlet,Goblin Ham,"Just try to resist eating this in massive bites.",NSP the/a the/some
+fd_brussel_sprouts,Tomodachi Life, "The cult classic 3DS game. Now somehow inside itself! Don't ask.",NPP the/some the/some
+fd_panini,CGI Steak,"A digital looking steak that tastes about 60 percent like the real thing.",NSP the/a the/some
+fd_cola, Bepis,"Drinking this will turn you into the fabled Bepisman! . . . Maybe!",NSS the/some the/some
+fd_steak,Golem Steak,"Golem Steak, Steak served on a heated golem hand! What a novel way to cook!",NSP the/a the/some
+fd_water, Banshee Tears,"Slightly sweet, slightly salty.A mysterious and flavorful drink.",NSS the/some the/some
+fd_waffle,Belgium On A Plate,"Everyone likes Belgium waffles. Why not take things to the logical conclusion?",NSP the/a the/some
+fd_potato_chips,3D Doritos,"Good ol' Doritos, Now in 3D! Taking crunch to another level.",NPP the/some the/some
+fd_honey,Butterfly Honey,"Made from nectar gathered from pink flowers by a discerning insect.",NSS the/some the/some
+fd_chocolate,Choc Rock,"Hard as a rock, but apparently that's part of the experience."NSS the/some the/some
