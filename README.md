@@ -1,10 +1,6 @@
-# Tomodachi-Life-Enterprise-Project
-This reposity houses a majority of the files for the Tomodachi Life Enterprise Mod.
+# Tomodachi Life Enterprise-Project
+This reposity is a project aimed to make modding Tomodachi Life easier and more accesible. Included in this repository is all the files used for the Tomodachi Life Enterprise mod and a wiki page. This wiki page  contains several guides on setting up your modding enviroment, and editing different file-formats. 
 
-Included is a wiki page for all the documentation and resoruces about modding Tomodachi Life.
-
-# Mod Download
-https://gamebanana.com/wips/73146
-
-# Discord
+# The Tomodachi Life Enterprise-Project discord
 https://discord.gg/rWBXDaCYKU
+
