@@ -1,0 +1,3705 @@
+{
+  "TargetAnimGroupName": "SkeletalAnimation",
+  "LoopMode": 1,
+  "FramesCount": 59.0,
+  "Elements": [
+    {
+      "Flags": 4713984,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "all_root",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 16744448,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "body",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.63497716,
+              "InSlope": -6.633997E-05,
+              "OutSlope": -6.633997E-05
+            },
+            {
+              "Frame": 39.0,
+              "Value": 0.6298148,
+              "InSlope": 0.0003105998,
+              "OutSlope": 0.0003105998
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.635,
+              "InSlope": 2.2828579E-05,
+              "OutSlope": 2.2828579E-05
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0375,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "hips",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63375872,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_leg",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 3.1415098,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.034771122,
+              "InSlope": -0.0010326179,
+              "OutSlope": -0.0010326179
+            },
+            {
+              "Frame": 3.0,
+              "Value": -0.039624877,
+              "InSlope": -0.0024098444,
+              "OutSlope": -0.0024098444
+            },
+            {
+              "Frame": 13.0,
+              "Value": -0.07596528,
+              "InSlope": -0.0039582355,
+              "OutSlope": -0.0039582355
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.11453543,
+              "InSlope": 0.00040364783,
+              "OutSlope": 0.00040364783
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.06794303,
+              "InSlope": 0.0040304735,
+              "OutSlope": 0.0040304735
+            },
+            {
+              "Frame": 58.0,
+              "Value": -0.034771122,
+              "InSlope": 0.0006949061,
+              "OutSlope": 0.0006949061
+            },
+            {
+              "Frame": 59.0,
+              "Value": -0.03441393,
+              "InSlope": 0.00035719233,
+              "OutSlope": 0.00035719233
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.00054714025,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 65994752,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_knee",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.24311388,
+              "InSlope": -0.002251636,
+              "OutSlope": -0.002251636
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.24536552,
+              "InSlope": -0.0029164278,
+              "OutSlope": -0.0029164278
+            },
+            {
+              "Frame": 10.0,
+              "Value": -0.30676198,
+              "InSlope": -0.008779311,
+              "OutSlope": -0.008779311
+            },
+            {
+              "Frame": 20.0,
+              "Value": -0.38711783,
+              "InSlope": -0.006306715,
+              "OutSlope": -0.006306715
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.4178967,
+              "InSlope": 0.00088917953,
+              "OutSlope": 0.00088917953
+            },
+            {
+              "Frame": 45.0,
+              "Value": -0.33315596,
+              "InSlope": 0.008674099,
+              "OutSlope": 0.008674099
+            },
+            {
+              "Frame": 53.0,
+              "Value": -0.26607022,
+              "InSlope": 0.0069541126,
+              "OutSlope": 0.0069541126
+            },
+            {
+              "Frame": 58.0,
+              "Value": -0.24311388,
+              "InSlope": 0.0015152221,
+              "OutSlope": 0.0015152221
+            },
+            {
+              "Frame": 59.0,
+              "Value": -0.2423351,
+              "InSlope": 0.0007787915,
+              "OutSlope": 0.0007787915
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63375872,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_ankle",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.00020460566,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.1713387,
+              "InSlope": 0.0012190121,
+              "OutSlope": 0.0012190121
+            },
+            {
+              "Frame": 2.0,
+              "Value": 0.17449681,
+              "InSlope": 0.002256638,
+              "OutSlope": 0.002256638
+            },
+            {
+              "Frame": 12.0,
+              "Value": 0.21543202,
+              "InSlope": 0.004774382,
+              "OutSlope": 0.004774382
+            },
+            {
+              "Frame": 30.0,
+              "Value": 0.26635718,
+              "InSlope": -0.00048552756,
+              "OutSlope": -0.00048552756
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.215432,
+              "InSlope": -0.004774382,
+              "OutSlope": -0.004774382
+            },
+            {
+              "Frame": 56.0,
+              "Value": 0.17449681,
+              "InSlope": -0.002256638,
+              "OutSlope": -0.002256638
+            },
+            {
+              "Frame": 58.0,
+              "Value": 0.1713387,
+              "InSlope": -0.0008203119,
+              "OutSlope": -0.0008203119
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.1709171,
+              "InSlope": -0.00042161168,
+              "OutSlope": -0.00042161168
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -6.282637,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63375872,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_leg",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.00011607464,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.034771368,
+              "InSlope": -0.0010326137,
+              "OutSlope": -0.0010326137
+            },
+            {
+              "Frame": 3.0,
+              "Value": -0.03962512,
+              "InSlope": -0.0024098444,
+              "OutSlope": -0.0024098444
+            },
+            {
+              "Frame": 13.0,
+              "Value": -0.0759655,
+              "InSlope": -0.0039582355,
+              "OutSlope": -0.0039582355
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.11453562,
+              "InSlope": 0.00040364783,
+              "OutSlope": 0.00040364783
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.06794325,
+              "InSlope": 0.00403047,
+              "OutSlope": 0.00403047
+            },
+            {
+              "Frame": 58.0,
+              "Value": -0.034771368,
+              "InSlope": 0.0006949061,
+              "OutSlope": 0.0006949061
+            },
+            {
+              "Frame": 59.0,
+              "Value": -0.034414176,
+              "InSlope": 0.00035719233,
+              "OutSlope": 0.00035719233
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0005469952,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 65994752,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_knee",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.24311422,
+              "InSlope": 0.002251636,
+              "OutSlope": 0.002251636
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.24536586,
+              "InSlope": 0.0029164194,
+              "OutSlope": 0.0029164194
+            },
+            {
+              "Frame": 10.0,
+              "Value": 0.30676222,
+              "InSlope": 0.008779294,
+              "OutSlope": 0.008779294
+            },
+            {
+              "Frame": 20.0,
+              "Value": 0.38711807,
+              "InSlope": 0.006306715,
+              "OutSlope": 0.006306715
+            },
+            {
+              "Frame": 30.0,
+              "Value": 0.4178969,
+              "InSlope": -0.00088917953,
+              "OutSlope": -0.00088917953
+            },
+            {
+              "Frame": 45.0,
+              "Value": 0.33315623,
+              "InSlope": -0.008674099,
+              "OutSlope": -0.008674099
+            },
+            {
+              "Frame": 53.0,
+              "Value": 0.26607051,
+              "InSlope": -0.0069541046,
+              "OutSlope": -0.0069541046
+            },
+            {
+              "Frame": 58.0,
+              "Value": 0.24311422,
+              "InSlope": -0.0015152221,
+              "OutSlope": -0.0015152221
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.24233541,
+              "InSlope": -0.00077880814,
+              "OutSlope": -0.00077880814
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63375872,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_ankle",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.00023651803,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.22499,
+              "InSlope": -0.0012190287,
+              "OutSlope": -0.0012190287
+            },
+            {
+              "Frame": 2.0,
+              "Value": -0.22814812,
+              "InSlope": -0.0022566295,
+              "OutSlope": -0.0022566295
+            },
+            {
+              "Frame": 12.0,
+              "Value": -0.26908326,
+              "InSlope": -0.0047743735,
+              "OutSlope": -0.0047743735
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.3200084,
+              "InSlope": 0.00048552756,
+              "OutSlope": 0.00048552756
+            },
+            {
+              "Frame": 46.0,
+              "Value": -0.26908326,
+              "InSlope": 0.004774382,
+              "OutSlope": 0.004774382
+            },
+            {
+              "Frame": 56.0,
+              "Value": -0.22814812,
+              "InSlope": 0.0022566295,
+              "OutSlope": 0.0022566295
+            },
+            {
+              "Frame": 58.0,
+              "Value": -0.22499,
+              "InSlope": 0.0008203119,
+              "OutSlope": 0.0008203119
+            },
+            {
+              "Frame": 59.0,
+              "Value": -0.2245684,
+              "InSlope": 0.00042159503,
+              "OutSlope": 0.00042159503
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.00055893976,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 65994752,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "back_skirt1",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.00028442405,
+              "InSlope": 0.0008274154,
+              "OutSlope": 0.0008274154
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.006464183,
+              "InSlope": 0.0024176044,
+              "OutSlope": 0.0024176044
+            },
+            {
+              "Frame": 29.0,
+              "Value": 0.08726646,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 58.0,
+              "Value": 0.0002844235,
+              "InSlope": -0.0005559206,
+              "OutSlope": -0.0005559206
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.0,
+              "InSlope": -0.0002844235,
+              "OutSlope": -0.0002844235
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 64946176,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "back_skirt2",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.00028442405,
+              "InSlope": 0.0008274154,
+              "OutSlope": 0.0008274154
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.006464183,
+              "InSlope": 0.0024176044,
+              "OutSlope": 0.0024176044
+            },
+            {
+              "Frame": 29.0,
+              "Value": 0.08726646,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 58.0,
+              "Value": 0.0002844235,
+              "InSlope": -0.0005559206,
+              "OutSlope": -0.0005559206
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.0,
+              "InSlope": -0.0002844235,
+              "OutSlope": -0.0002844235
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "front_skirt1",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 64946176,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "front_skirt2",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.00028442405,
+              "InSlope": 0.0008274154,
+              "OutSlope": 0.0008274154
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.006464183,
+              "InSlope": 0.0024176044,
+              "OutSlope": 0.0024176044
+            },
+            {
+              "Frame": 29.0,
+              "Value": 0.08726646,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 58.0,
+              "Value": 0.0002844235,
+              "InSlope": -0.0005559206,
+              "OutSlope": -0.0005559206
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.0,
+              "InSlope": -0.0002844235,
+              "OutSlope": -0.0002844235
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "waist",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63375872,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_shoulder",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.54572684,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.08710515,
+              "InSlope": -0.00043546845,
+              "OutSlope": -0.00043546845
+            },
+            {
+              "Frame": 8.0,
+              "Value": 0.077334285,
+              "InSlope": -0.0019255944,
+              "OutSlope": -0.0019255944
+            },
+            {
+              "Frame": 30.0,
+              "Value": 0.04147602,
+              "InSlope": 0.0002925836,
+              "OutSlope": 0.0002925836
+            },
+            {
+              "Frame": 58.0,
+              "Value": 0.08710515,
+              "InSlope": 0.00029258154,
+              "OutSlope": 0.00029258154
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.087254845,
+              "InSlope": 0.00014969462,
+              "OutSlope": 0.00014969462
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -2.7925372,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63897600,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_elbow",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.2615208,
+              "InSlope": 0.00072291505,
+              "OutSlope": 0.00072291505
+            },
+            {
+              "Frame": 5.0,
+              "Value": -0.25383982,
+              "InSlope": 0.0024341957,
+              "OutSlope": 0.0024341957
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.18577285,
+              "InSlope": -0.00048570233,
+              "OutSlope": -0.00048570233
+            },
+            {
+              "Frame": 58.0,
+              "Value": -0.2615208,
+              "InSlope": -0.00048570233,
+              "OutSlope": -0.00048570233
+            },
+            {
+              "Frame": 59.0,
+              "Value": -0.2617693,
+              "InSlope": -0.00024848958,
+              "OutSlope": -0.00024848958
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.00025408305,
+              "InSlope": -0.00075420574,
+              "OutSlope": -0.00075420574
+            },
+            {
+              "Frame": 4.0,
+              "Value": -0.0058870576,
+              "InSlope": -0.002203695,
+              "OutSlope": -0.002203695
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.07928078,
+              "InSlope": 0.00050673296,
+              "OutSlope": 0.00050673296
+            },
+            {
+              "Frame": 58.0,
+              "Value": -0.00025408252,
+              "InSlope": 0.00050673273,
+              "OutSlope": 0.00050673273
+            },
+            {
+              "Frame": 59.0,
+              "Value": 5.17518E-06,
+              "InSlope": 0.00025925774,
+              "OutSlope": 0.00025925774
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_hand1",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 4252096,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_handItem",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0023992,
+              "InSlope": -0.00036285413,
+              "OutSlope": -0.00036285413
+            },
+            {
+              "Frame": 10.0,
+              "Value": -0.009245581,
+              "InSlope": -0.0018081265,
+              "OutSlope": -0.0018081265
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.036800977,
+              "InSlope": 0.00025884676,
+              "OutSlope": 0.00025884676
+            },
+            {
+              "Frame": 55.0,
+              "Value": 0.0006623205,
+              "InSlope": 0.00088404043,
+              "OutSlope": 0.00088404043
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.002523881,
+              "InSlope": 0.00012468042,
+              "OutSlope": 0.00012468042
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.5623361,
+              "InSlope": -0.00021884526,
+              "OutSlope": -0.00021884526
+            },
+            {
+              "Frame": 22.0,
+              "Value": 0.5454501,
+              "InSlope": -0.0005776729,
+              "OutSlope": -0.0005776729
+            },
+            {
+              "Frame": 37.0,
+              "Value": 0.54606175,
+              "InSlope": 0.00064355286,
+              "OutSlope": 0.00064355286
+            },
+            {
+              "Frame": 55.0,
+              "Value": 0.56129605,
+              "InSlope": 0.0005239436,
+              "OutSlope": 0.0005239436
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.56241155,
+              "InSlope": 7.5434036E-05,
+              "OutSlope": 7.5434036E-05
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.3206916,
+              "InSlope": 0.00031625037,
+              "OutSlope": 0.00031625037
+            },
+            {
+              "Frame": 11.0,
+              "Value": 1.3323983,
+              "InSlope": 0.001618403,
+              "OutSlope": 0.001618403
+            },
+            {
+              "Frame": 31.0,
+              "Value": 1.3540198,
+              "InSlope": -0.00042357578,
+              "OutSlope": -0.00042357578
+            },
+            {
+              "Frame": 58.0,
+              "Value": 1.3206916,
+              "InSlope": -0.00021245367,
+              "OutSlope": -0.00021245367
+            },
+            {
+              "Frame": 59.0,
+              "Value": 1.3205829,
+              "InSlope": -0.00010865697,
+              "OutSlope": -0.00010865697
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.1155821E-06,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": true,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 63375872,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_shoulder",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 2.5954216,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.08710585,
+              "InSlope": -0.00043546845,
+              "OutSlope": -0.00043546845
+            },
+            {
+              "Frame": 8.0,
+              "Value": 0.077334985,
+              "InSlope": -0.0019255944,
+              "OutSlope": -0.0019255944
+            },
+            {
+              "Frame": 30.0,
+              "Value": 0.04147672,
+              "InSlope": 0.00029258154,
+              "OutSlope": 0.00029258154
+            },
+            {
+              "Frame": 58.0,
+              "Value": 0.08710585,
+              "InSlope": 0.00029258154,
+              "OutSlope": 0.00029258154
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.087255545,
+              "InSlope": 0.00014969462,
+              "OutSlope": 0.00014969462
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 2.792538,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63897600,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_elbow",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.2615344,
+              "InSlope": -0.00072291505,
+              "OutSlope": -0.00072291505
+            },
+            {
+              "Frame": 5.0,
+              "Value": 0.25385344,
+              "InSlope": -0.0024341876,
+              "OutSlope": -0.0024341876
+            },
+            {
+              "Frame": 30.0,
+              "Value": 0.18578646,
+              "InSlope": 0.00048571065,
+              "OutSlope": 0.00048571065
+            },
+            {
+              "Frame": 58.0,
+              "Value": 0.2615344,
+              "InSlope": 0.00048571065,
+              "OutSlope": 0.00048571065
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.2617829,
+              "InSlope": 0.00024850623,
+              "OutSlope": 0.00024850623
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.0002346447,
+              "InSlope": -0.00075420935,
+              "OutSlope": -0.00075420935
+            },
+            {
+              "Frame": 4.0,
+              "Value": -0.005867646,
+              "InSlope": -0.0022037055,
+              "OutSlope": -0.0022037055
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.07926167,
+              "InSlope": 0.00050673296,
+              "OutSlope": 0.00050673296
+            },
+            {
+              "Frame": 58.0,
+              "Value": -0.00023464418,
+              "InSlope": 0.00050673523,
+              "OutSlope": 0.00050673523
+            },
+            {
+              "Frame": 59.0,
+              "Value": 2.4614796E-05,
+              "InSlope": 0.000259259,
+              "OutSlope": 0.000259259
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_hand1",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 4252096,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_handItem",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0034883227,
+              "InSlope": -0.0003623696,
+              "OutSlope": -0.0003623696
+            },
+            {
+              "Frame": 10.0,
+              "Value": -0.008141049,
+              "InSlope": -0.0018057572,
+              "OutSlope": -0.0018057572
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.03566123,
+              "InSlope": 0.00025852636,
+              "OutSlope": 0.00025852636
+            },
+            {
+              "Frame": 55.0,
+              "Value": 0.0017537599,
+              "InSlope": 0.00088286283,
+              "OutSlope": 0.00088286283
+            },
+            {
+              "Frame": 59.0,
+              "Value": 0.0036128366,
+              "InSlope": 0.00012451345,
+              "OutSlope": 0.00012451345
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 2.5771024,
+              "InSlope": 0.00021891184,
+              "OutSlope": 0.00021891184
+            },
+            {
+              "Frame": 22.0,
+              "Value": 2.593975,
+              "InSlope": 0.000577107,
+              "OutSlope": 0.000577107
+            },
+            {
+              "Frame": 37.0,
+              "Value": 2.5933638,
+              "InSlope": -0.00064302026,
+              "OutSlope": -0.00064302026
+            },
+            {
+              "Frame": 55.0,
+              "Value": 2.5781417,
+              "InSlope": -0.0005234443,
+              "OutSlope": -0.0005234443
+            },
+            {
+              "Frame": 59.0,
+              "Value": 2.577027,
+              "InSlope": -7.536746E-05,
+              "OutSlope": -7.536746E-05
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 59.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.3204424,
+              "InSlope": 0.00031638352,
+              "OutSlope": 0.00031638352
+            },
+            {
+              "Frame": 11.0,
+              "Value": 1.3321512,
+              "InSlope": 0.0016186027,
+              "OutSlope": 0.0016186027
+            },
+            {
+              "Frame": 31.0,
+              "Value": 1.3537738,
+              "InSlope": -0.00042357578,
+              "OutSlope": -0.00042357578
+            },
+            {
+              "Frame": 58.0,
+              "Value": 1.3204424,
+              "InSlope": -0.00021258683,
+              "OutSlope": -0.00021258683
+            },
+            {
+              "Frame": 59.0,
+              "Value": 1.3203336,
+              "InSlope": -0.00010879013,
+              "OutSlope": -0.00010879013
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -6.97854E-06,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 2.1925434E-06,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -2.836172E-06,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": true,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "neck",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 4255680,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "waistItem",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": true,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 4255680,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "shadow",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": true,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    }
+  ],
+  "MetaData": [],
+  "Name": "bodySpShopMnqnPose00"
+}

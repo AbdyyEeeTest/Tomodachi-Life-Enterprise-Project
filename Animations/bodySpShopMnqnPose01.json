@@ -1,0 +1,5536 @@
+{
+  "TargetAnimGroupName": "SkeletalAnimation",
+  "LoopMode": 1,
+  "FramesCount": 47.0,
+  "Elements": [
+    {
+      "Flags": 4713984,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "all_root",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 16220160,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "body",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.034553073,
+              "InSlope": -0.0010201301,
+              "OutSlope": -0.0010201301
+            },
+            {
+              "Frame": 3.0,
+              "Value": 0.029735237,
+              "InSlope": -0.0024139683,
+              "OutSlope": -0.0024139683
+            },
+            {
+              "Frame": 23.0,
+              "Value": -0.034906585,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.034553073,
+              "InSlope": 0.00068682095,
+              "OutSlope": 0.00068682095
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.034906585,
+              "InSlope": 0.00035350968,
+              "OutSlope": 0.00035350968
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.6370573,
+              "InSlope": -0.0012239814,
+              "OutSlope": -0.0012239814
+            },
+            {
+              "Frame": 13.0,
+              "Value": 0.6166667,
+              "InSlope": 0.0015364587,
+              "OutSlope": 0.0015364587
+            },
+            {
+              "Frame": 25.0,
+              "Value": 0.6358333,
+              "InSlope": -0.0015364587,
+              "OutSlope": -0.0015364587
+            },
+            {
+              "Frame": 37.0,
+              "Value": 0.6166667,
+              "InSlope": 0.0015364587,
+              "OutSlope": 0.0015364587
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.6375,
+              "InSlope": 0.0004426837,
+              "OutSlope": 0.0004426837
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0375,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "hips",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63373312,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_leg",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 3.1862109,
+              "InSlope": -0.0036179044,
+              "OutSlope": -0.0036179044
+            },
+            {
+              "Frame": 2.0,
+              "Value": 3.178374,
+              "InSlope": -0.0042265696,
+              "OutSlope": -0.0042265696
+            },
+            {
+              "Frame": 5.0,
+              "Value": 3.166728,
+              "InSlope": -0.0035337484,
+              "OutSlope": -0.0035337484
+            },
+            {
+              "Frame": 15.0,
+              "Value": 3.1246977,
+              "InSlope": -0.003809785,
+              "OutSlope": -0.003809785
+            },
+            {
+              "Frame": 24.0,
+              "Value": 3.1063929,
+              "InSlope": 0.0006245113,
+              "OutSlope": 0.0006245113
+            },
+            {
+              "Frame": 31.0,
+              "Value": 3.1249058,
+              "InSlope": 0.0041469415,
+              "OutSlope": 0.0041469415
+            },
+            {
+              "Frame": 37.0,
+              "Value": 3.1509802,
+              "InSlope": 0.004654673,
+              "OutSlope": 0.004654673
+            },
+            {
+              "Frame": 41.0,
+              "Value": 3.1716645,
+              "InSlope": 0.0054336474,
+              "OutSlope": 0.0054336474
+            },
+            {
+              "Frame": 45.0,
+              "Value": 3.1878676,
+              "InSlope": 0.0016391757,
+              "OutSlope": 0.0016391757
+            },
+            {
+              "Frame": 47.0,
+              "Value": 3.188347,
+              "InSlope": -0.00043516053,
+              "OutSlope": -0.00043516053
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.6950203,
+              "InSlope": 0.07102917,
+              "OutSlope": 0.07102917
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.62399113,
+              "InSlope": 0.08128995,
+              "OutSlope": 0.08128995
+            },
+            {
+              "Frame": 2.0,
+              "Value": -0.5324404,
+              "InSlope": 0.0961899,
+              "OutSlope": 0.0961899
+            },
+            {
+              "Frame": 3.0,
+              "Value": -0.43161136,
+              "InSlope": 0.093889944,
+              "OutSlope": 0.093889944
+            },
+            {
+              "Frame": 4.0,
+              "Value": -0.34466055,
+              "InSlope": 0.056770388,
+              "OutSlope": 0.056770388
+            },
+            {
+              "Frame": 5.0,
+              "Value": -0.3180706,
+              "InSlope": 0.010138521,
+              "OutSlope": 0.010138521
+            },
+            {
+              "Frame": 6.0,
+              "Value": -0.3243835,
+              "InSlope": 0.00071822124,
+              "OutSlope": 0.00071822124
+            },
+            {
+              "Frame": 8.0,
+              "Value": -0.29843396,
+              "InSlope": 0.022021588,
+              "OutSlope": 0.022021588
+            },
+            {
+              "Frame": 10.0,
+              "Value": -0.24172334,
+              "InSlope": 0.03211104,
+              "OutSlope": 0.03211104
+            },
+            {
+              "Frame": 11.0,
+              "Value": -0.20836888,
+              "InSlope": 0.034143206,
+              "OutSlope": 0.034143206
+            },
+            {
+              "Frame": 13.0,
+              "Value": -0.13641988,
+              "InSlope": 0.037878472,
+              "OutSlope": 0.037878472
+            },
+            {
+              "Frame": 17.0,
+              "Value": 0.024046637,
+              "InSlope": 0.040586397,
+              "OutSlope": 0.040586397
+            },
+            {
+              "Frame": 22.0,
+              "Value": 0.19948447,
+              "InSlope": 0.025192015,
+              "OutSlope": 0.025192015
+            },
+            {
+              "Frame": 24.0,
+              "Value": 0.23911309,
+              "InSlope": 0.015006131,
+              "OutSlope": 0.015006131
+            },
+            {
+              "Frame": 27.0,
+              "Value": 0.26914296,
+              "InSlope": 0.006193289,
+              "OutSlope": 0.006193289
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.27420667,
+              "InSlope": 0.0038893053,
+              "OutSlope": 0.0038893053
+            },
+            {
+              "Frame": 29.0,
+              "Value": 0.27692157,
+              "InSlope": -0.007686274,
+              "OutSlope": -0.007686274
+            },
+            {
+              "Frame": 30.0,
+              "Value": 0.25883412,
+              "InSlope": -0.033480346,
+              "OutSlope": -0.033480346
+            },
+            {
+              "Frame": 31.0,
+              "Value": 0.20996088,
+              "InSlope": -0.058706872,
+              "OutSlope": -0.058706872
+            },
+            {
+              "Frame": 32.0,
+              "Value": 0.14142038,
+              "InSlope": -0.07414254,
+              "OutSlope": -0.07414254
+            },
+            {
+              "Frame": 34.0,
+              "Value": -0.022689557,
+              "InSlope": -0.08373345,
+              "OutSlope": -0.08373345
+            },
+            {
+              "Frame": 35.0,
+              "Value": -0.1057911,
+              "InSlope": -0.08443452,
+              "OutSlope": -0.08443452
+            },
+            {
+              "Frame": 36.0,
+              "Value": -0.19155858,
+              "InSlope": -0.08976878,
+              "OutSlope": -0.08976878
+            },
+            {
+              "Frame": 38.0,
+              "Value": -0.38262093,
+              "InSlope": -0.09639332,
+              "OutSlope": -0.09639332
+            },
+            {
+              "Frame": 40.0,
+              "Value": -0.5661278,
+              "InSlope": -0.08165475,
+              "OutSlope": -0.08165475
+            },
+            {
+              "Frame": 41.0,
+              "Value": -0.64142483,
+              "InSlope": -0.066994876,
+              "OutSlope": -0.066994876
+            },
+            {
+              "Frame": 42.0,
+              "Value": -0.7001175,
+              "InSlope": -0.04939418,
+              "OutSlope": -0.04939418
+            },
+            {
+              "Frame": 43.0,
+              "Value": -0.74021316,
+              "InSlope": -0.030782446,
+              "OutSlope": -0.030782446
+            },
+            {
+              "Frame": 45.0,
+              "Value": -0.7661713,
+              "InSlope": 0.0025640582,
+              "OutSlope": 0.0025640582
+            },
+            {
+              "Frame": 46.0,
+              "Value": -0.7565543,
+              "InSlope": 0.014789166,
+              "OutSlope": 0.014789166
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.73659295,
+              "InSlope": 0.01996139,
+              "OutSlope": 0.01996139
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.02790785,
+              "InSlope": 0.004598208,
+              "OutSlope": 0.004598208
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.023309642,
+              "InSlope": 0.004932215,
+              "OutSlope": 0.004932215
+            },
+            {
+              "Frame": 4.0,
+              "Value": -0.009075413,
+              "InSlope": 0.0028640362,
+              "OutSlope": 0.0028640362
+            },
+            {
+              "Frame": 6.0,
+              "Value": -0.006293627,
+              "InSlope": 0.0011896192,
+              "OutSlope": 0.0011896192
+            },
+            {
+              "Frame": 11.0,
+              "Value": 0.00058977323,
+              "InSlope": 0.0009171529,
+              "OutSlope": 0.0009171529
+            },
+            {
+              "Frame": 18.0,
+              "Value": -0.0011076661,
+              "InSlope": -0.0012374093,
+              "OutSlope": -0.0012374093
+            },
+            {
+              "Frame": 24.0,
+              "Value": -0.0077657294,
+              "InSlope": -0.00038797472,
+              "OutSlope": -0.00038797472
+            },
+            {
+              "Frame": 29.0,
+              "Value": -0.006257185,
+              "InSlope": 0.0010652582,
+              "OutSlope": 0.0010652582
+            },
+            {
+              "Frame": 33.0,
+              "Value": -4.7678415E-05,
+              "InSlope": 0.0009553111,
+              "OutSlope": 0.0009553111
+            },
+            {
+              "Frame": 39.0,
+              "Value": -0.00809588,
+              "InSlope": -0.0039032055,
+              "OutSlope": -0.0039032055
+            },
+            {
+              "Frame": 44.0,
+              "Value": -0.029532773,
+              "InSlope": -0.0025135009,
+              "OutSlope": -0.0025135009
+            },
+            {
+              "Frame": 46.0,
+              "Value": -0.03167554,
+              "InSlope": 0.00031149414,
+              "OutSlope": 0.00031149414
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.030718287,
+              "InSlope": 0.00095725246,
+              "OutSlope": 0.00095725246
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 65994752,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_knee",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.94132936,
+              "InSlope": 0.12868828,
+              "OutSlope": 0.12868828
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.8126411,
+              "InSlope": 0.14038713,
+              "OutSlope": 0.14038713
+            },
+            {
+              "Frame": 2.0,
+              "Value": -0.66055506,
+              "InSlope": 0.15532416,
+              "OutSlope": 0.15532416
+            },
+            {
+              "Frame": 3.0,
+              "Value": -0.50199276,
+              "InSlope": 0.13955231,
+              "OutSlope": 0.13955231
+            },
+            {
+              "Frame": 4.0,
+              "Value": -0.38145047,
+              "InSlope": 0.05314644,
+              "OutSlope": 0.05314644
+            },
+            {
+              "Frame": 5.0,
+              "Value": -0.3956999,
+              "InSlope": -0.05248839,
+              "OutSlope": -0.05248839
+            },
+            {
+              "Frame": 6.0,
+              "Value": -0.48642728,
+              "InSlope": -0.07825244,
+              "OutSlope": -0.07825244
+            },
+            {
+              "Frame": 7.0,
+              "Value": -0.5522048,
+              "InSlope": -0.055369467,
+              "OutSlope": -0.055369467
+            },
+            {
+              "Frame": 9.0,
+              "Value": -0.62344027,
+              "InSlope": -0.017723937,
+              "OutSlope": -0.017723937
+            },
+            {
+              "Frame": 10.0,
+              "Value": -0.6326141,
+              "InSlope": -0.0013419669,
+              "OutSlope": -0.0013419669
+            },
+            {
+              "Frame": 12.0,
+              "Value": -0.61134374,
+              "InSlope": 0.01564617,
+              "OutSlope": 0.01564617
+            },
+            {
+              "Frame": 15.0,
+              "Value": -0.55773145,
+              "InSlope": 0.019295916,
+              "OutSlope": 0.019295916
+            },
+            {
+              "Frame": 18.0,
+              "Value": -0.5021186,
+              "InSlope": 0.015410265,
+              "OutSlope": 0.015410265
+            },
+            {
+              "Frame": 22.0,
+              "Value": -0.48816696,
+              "InSlope": -0.0142252585,
+              "OutSlope": -0.0142252585
+            },
+            {
+              "Frame": 23.0,
+              "Value": -0.50788164,
+              "InSlope": -0.025225777,
+              "OutSlope": -0.025225777
+            },
+            {
+              "Frame": 25.0,
+              "Value": -0.577231,
+              "InSlope": -0.040991157,
+              "OutSlope": -0.040991157
+            },
+            {
+              "Frame": 27.0,
+              "Value": -0.6665322,
+              "InSlope": -0.046492934,
+              "OutSlope": -0.046492934
+            },
+            {
+              "Frame": 28.0,
+              "Value": -0.7135867,
+              "InSlope": -0.047178164,
+              "OutSlope": -0.047178164
+            },
+            {
+              "Frame": 29.0,
+              "Value": -0.7608886,
+              "InSlope": -0.05936932,
+              "OutSlope": -0.05936932
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.83232534,
+              "InSlope": -0.088472806,
+              "OutSlope": -0.088472806
+            },
+            {
+              "Frame": 31.0,
+              "Value": -0.93783414,
+              "InSlope": -0.112663165,
+              "OutSlope": -0.112663165
+            },
+            {
+              "Frame": 32.0,
+              "Value": -1.0576516,
+              "InSlope": -0.11962134,
+              "OutSlope": -0.11962134
+            },
+            {
+              "Frame": 33.0,
+              "Value": -1.1770768,
+              "InSlope": -0.11409741,
+              "OutSlope": -0.11409741
+            },
+            {
+              "Frame": 34.0,
+              "Value": -1.2858465,
+              "InSlope": -0.099783055,
+              "OutSlope": -0.099783055
+            },
+            {
+              "Frame": 36.0,
+              "Value": -1.4502825,
+              "InSlope": -0.065876216,
+              "OutSlope": -0.065876216
+            },
+            {
+              "Frame": 38.0,
+              "Value": -1.54684,
+              "InSlope": -0.027007649,
+              "OutSlope": -0.027007649
+            },
+            {
+              "Frame": 39.0,
+              "Value": -1.5624107,
+              "InSlope": -0.0033049828,
+              "OutSlope": -0.0033049828
+            },
+            {
+              "Frame": 40.0,
+              "Value": -1.55345,
+              "InSlope": 0.02111494,
+              "OutSlope": 0.02111494
+            },
+            {
+              "Frame": 41.0,
+              "Value": -1.5201808,
+              "InSlope": 0.044340834,
+              "OutSlope": 0.044340834
+            },
+            {
+              "Frame": 43.0,
+              "Value": -1.3910646,
+              "InSlope": 0.080232784,
+              "OutSlope": 0.080232784
+            },
+            {
+              "Frame": 45.0,
+              "Value": -1.2109203,
+              "InSlope": 0.09289512,
+              "OutSlope": 0.09289512
+            },
+            {
+              "Frame": 46.0,
+              "Value": -1.1185125,
+              "InSlope": 0.08742086,
+              "OutSlope": 0.08742086
+            },
+            {
+              "Frame": 47.0,
+              "Value": -1.0360786,
+              "InSlope": 0.08243389,
+              "OutSlope": 0.08243389
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63373312,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_ankle",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.00048936735,
+              "InSlope": -8.5955704E-05,
+              "OutSlope": -8.5955704E-05
+            },
+            {
+              "Frame": 21.0,
+              "Value": 0.00022009182,
+              "InSlope": -2.7495025E-05,
+              "OutSlope": -2.7495025E-05
+            },
+            {
+              "Frame": 39.0,
+              "Value": 0.0006422257,
+              "InSlope": 2.7500713E-05,
+              "OutSlope": 2.7500713E-05
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.00053320354,
+              "InSlope": -1.4975794E-05,
+              "OutSlope": -1.4975794E-05
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.4411147,
+              "InSlope": -0.08046339,
+              "OutSlope": -0.08046339
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.36065128,
+              "InSlope": -0.09482416,
+              "OutSlope": -0.09482416
+            },
+            {
+              "Frame": 2.0,
+              "Value": 0.25146636,
+              "InSlope": -0.11182818,
+              "OutSlope": -0.11182818
+            },
+            {
+              "Frame": 3.0,
+              "Value": 0.13699494,
+              "InSlope": -0.09756432,
+              "OutSlope": -0.09756432
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.056337737,
+              "InSlope": -0.02972267,
+              "OutSlope": -0.02972267
+            },
+            {
+              "Frame": 5.0,
+              "Value": 0.07754959,
+              "InSlope": 0.052823875,
+              "OutSlope": 0.052823875
+            },
+            {
+              "Frame": 6.0,
+              "Value": 0.16198549,
+              "InSlope": 0.07899254,
+              "OutSlope": 0.07899254
+            },
+            {
+              "Frame": 8.0,
+              "Value": 0.29871473,
+              "InSlope": 0.057654683,
+              "OutSlope": 0.057654683
+            },
+            {
+              "Frame": 11.0,
+              "Value": 0.41775537,
+              "InSlope": 0.019791132,
+              "OutSlope": 0.019791132
+            },
+            {
+              "Frame": 14.0,
+              "Value": 0.41670454,
+              "InSlope": -0.018314725,
+              "OutSlope": -0.018314725
+            },
+            {
+              "Frame": 17.0,
+              "Value": 0.3202858,
+              "InSlope": -0.042660028,
+              "OutSlope": -0.042660028
+            },
+            {
+              "Frame": 20.0,
+              "Value": 0.17758258,
+              "InSlope": -0.04810649,
+              "OutSlope": -0.04810649
+            },
+            {
+              "Frame": 22.0,
+              "Value": 0.08754542,
+              "InSlope": -0.03956982,
+              "OutSlope": -0.03956982
+            },
+            {
+              "Frame": 23.0,
+              "Value": 0.051262256,
+              "InSlope": -0.032270595,
+              "OutSlope": -0.032270595
+            },
+            {
+              "Frame": 26.0,
+              "Value": -0.0113376845,
+              "InSlope": -0.010181188,
+              "OutSlope": -0.010181188
+            },
+            {
+              "Frame": 28.0,
+              "Value": -0.017546326,
+              "InSlope": 0.004363913,
+              "OutSlope": 0.004363913
+            },
+            {
+              "Frame": 29.0,
+              "Value": -0.009318889,
+              "InSlope": 0.019901985,
+              "OutSlope": 0.019901985
+            },
+            {
+              "Frame": 30.0,
+              "Value": 0.022257647,
+              "InSlope": 0.046350088,
+              "OutSlope": 0.046350088
+            },
+            {
+              "Frame": 31.0,
+              "Value": 0.08338129,
+              "InSlope": 0.06935628,
+              "OutSlope": 0.06935628
+            },
+            {
+              "Frame": 32.0,
+              "Value": 0.16097021,
+              "InSlope": 0.080481395,
+              "OutSlope": 0.080481395
+            },
+            {
+              "Frame": 33.0,
+              "Value": 0.24434406,
+              "InSlope": 0.08220329,
+              "OutSlope": 0.08220329
+            },
+            {
+              "Frame": 34.0,
+              "Value": 0.3253768,
+              "InSlope": 0.076921664,
+              "OutSlope": 0.076921664
+            },
+            {
+              "Frame": 36.0,
+              "Value": 0.45999363,
+              "InSlope": 0.055290304,
+              "OutSlope": 0.055290304
+            },
+            {
+              "Frame": 37.0,
+              "Value": 0.508768,
+              "InSlope": 0.041212935,
+              "OutSlope": 0.041212935
+            },
+            {
+              "Frame": 38.0,
+              "Value": 0.5424195,
+              "InSlope": 0.025932813,
+              "OutSlope": 0.025932813
+            },
+            {
+              "Frame": 39.0,
+              "Value": 0.5606336,
+              "InSlope": 0.011294982,
+              "OutSlope": 0.011294982
+            },
+            {
+              "Frame": 43.0,
+              "Value": 0.52765334,
+              "InSlope": -0.017773122,
+              "OutSlope": -0.017773122
+            },
+            {
+              "Frame": 45.0,
+              "Value": 0.49272037,
+              "InSlope": -0.014817928,
+              "OutSlope": -0.014817928
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.47980255,
+              "InSlope": -0.009610766,
+              "OutSlope": -0.009610766
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.47349882,
+              "InSlope": -0.0063037355,
+              "OutSlope": -0.0063037355
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -6.2823873,
+              "InSlope": -5.805691E-05,
+              "OutSlope": -5.805691E-05
+            },
+            {
+              "Frame": 30.0,
+              "Value": -6.2825556,
+              "InSlope": -2.9294772E-06,
+              "OutSlope": -2.9294772E-06
+            },
+            {
+              "Frame": 47.0,
+              "Value": -6.282351,
+              "InSlope": -1.6511598E-05,
+              "OutSlope": -1.6511598E-05
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63373312,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_leg",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.03579374,
+              "InSlope": -0.0009048131,
+              "OutSlope": -0.0009048131
+            },
+            {
+              "Frame": 3.0,
+              "Value": 0.03117863,
+              "InSlope": -0.0024157648,
+              "OutSlope": -0.0024157648
+            },
+            {
+              "Frame": 10.0,
+              "Value": 0.0048016445,
+              "InSlope": -0.0043423004,
+              "OutSlope": -0.0043423004
+            },
+            {
+              "Frame": 16.0,
+              "Value": -0.024175344,
+              "InSlope": -0.0055884738,
+              "OutSlope": -0.0055884738
+            },
+            {
+              "Frame": 21.0,
+              "Value": -0.04671029,
+              "InSlope": -0.001754863,
+              "OutSlope": -0.001754863
+            },
+            {
+              "Frame": 24.0,
+              "Value": -0.04521966,
+              "InSlope": 0.0029164983,
+              "OutSlope": 0.0029164983
+            },
+            {
+              "Frame": 27.0,
+              "Value": -0.03286746,
+              "InSlope": 0.004160871,
+              "OutSlope": 0.004160871
+            },
+            {
+              "Frame": 31.0,
+              "Value": -0.017794833,
+              "InSlope": 0.004133432,
+              "OutSlope": 0.004133432
+            },
+            {
+              "Frame": 40.0,
+              "Value": 0.020535706,
+              "InSlope": 0.0036158904,
+              "OutSlope": 0.0036158904
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.035415675,
+              "InSlope": 0.0009059086,
+              "OutSlope": 0.0009059086
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.035978608,
+              "InSlope": 0.00056292984,
+              "OutSlope": 0.00056292984
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.23900117,
+              "InSlope": 0.012921192,
+              "OutSlope": 0.012921192
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.25192234,
+              "InSlope": 0.011369525,
+              "OutSlope": 0.011369525
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.2741527,
+              "InSlope": 0.003900707,
+              "OutSlope": 0.003900707
+            },
+            {
+              "Frame": 5.0,
+              "Value": 0.27687824,
+              "InSlope": -0.0076759877,
+              "OutSlope": -0.0076759877
+            },
+            {
+              "Frame": 6.0,
+              "Value": 0.25880072,
+              "InSlope": -0.033470865,
+              "OutSlope": -0.033470865
+            },
+            {
+              "Frame": 7.0,
+              "Value": 0.2099365,
+              "InSlope": -0.058698658,
+              "OutSlope": -0.058698658
+            },
+            {
+              "Frame": 8.0,
+              "Value": 0.1414034,
+              "InSlope": -0.074135765,
+              "OutSlope": -0.074135765
+            },
+            {
+              "Frame": 10.0,
+              "Value": -0.022694964,
+              "InSlope": -0.08372804,
+              "OutSlope": -0.08372804
+            },
+            {
+              "Frame": 11.0,
+              "Value": -0.1057911,
+              "InSlope": -0.08442927,
+              "OutSlope": -0.08442927
+            },
+            {
+              "Frame": 12.0,
+              "Value": -0.1915535,
+              "InSlope": -0.089763656,
+              "OutSlope": -0.089763656
+            },
+            {
+              "Frame": 14.0,
+              "Value": -0.3826052,
+              "InSlope": -0.096387535,
+              "OutSlope": -0.096387535
+            },
+            {
+              "Frame": 16.0,
+              "Value": -0.5660999,
+              "InSlope": -0.08164864,
+              "OutSlope": -0.08164864
+            },
+            {
+              "Frame": 17.0,
+              "Value": -0.6413908,
+              "InSlope": -0.066988856,
+              "OutSlope": -0.066988856
+            },
+            {
+              "Frame": 18.0,
+              "Value": -0.7000776,
+              "InSlope": -0.04938852,
+              "OutSlope": -0.04938852
+            },
+            {
+              "Frame": 19.0,
+              "Value": -0.74016786,
+              "InSlope": -0.030777654,
+              "OutSlope": -0.030777654
+            },
+            {
+              "Frame": 21.0,
+              "Value": -0.766119,
+              "InSlope": 0.0025660556,
+              "OutSlope": 0.0025660556
+            },
+            {
+              "Frame": 22.0,
+              "Value": -0.7565008,
+              "InSlope": 0.014789765,
+              "OutSlope": 0.014789765
+            },
+            {
+              "Frame": 23.0,
+              "Value": -0.7365395,
+              "InSlope": 0.030765703,
+              "OutSlope": 0.030765703
+            },
+            {
+              "Frame": 24.0,
+              "Value": -0.6949694,
+              "InSlope": 0.05629716,
+              "OutSlope": 0.05629716
+            },
+            {
+              "Frame": 25.0,
+              "Value": -0.6239452,
+              "InSlope": 0.08128455,
+              "OutSlope": 0.08128455
+            },
+            {
+              "Frame": 26.0,
+              "Value": -0.5324003,
+              "InSlope": 0.09618432,
+              "OutSlope": 0.09618432
+            },
+            {
+              "Frame": 27.0,
+              "Value": -0.4315765,
+              "InSlope": 0.09388498,
+              "OutSlope": 0.09388498
+            },
+            {
+              "Frame": 28.0,
+              "Value": -0.34463033,
+              "InSlope": 0.056766342,
+              "OutSlope": 0.056766342
+            },
+            {
+              "Frame": 29.0,
+              "Value": -0.31804383,
+              "InSlope": 0.010135076,
+              "OutSlope": 0.010135076
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.32436016,
+              "InSlope": 0.0007145261,
+              "OutSlope": 0.0007145261
+            },
+            {
+              "Frame": 32.0,
+              "Value": -0.2984191,
+              "InSlope": 0.022016952,
+              "OutSlope": 0.022016952
+            },
+            {
+              "Frame": 34.0,
+              "Value": -0.2417183,
+              "InSlope": 0.03210599,
+              "OutSlope": 0.03210599
+            },
+            {
+              "Frame": 35.0,
+              "Value": -0.20836888,
+              "InSlope": 0.034138113,
+              "OutSlope": 0.034138113
+            },
+            {
+              "Frame": 37.0,
+              "Value": -0.13643007,
+              "InSlope": 0.037873536,
+              "OutSlope": 0.037873536
+            },
+            {
+              "Frame": 41.0,
+              "Value": 0.024019338,
+              "InSlope": 0.040582888,
+              "OutSlope": 0.040582888
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.19944651,
+              "InSlope": 0.025191506,
+              "OutSlope": 0.025191506
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.2219672,
+              "InSlope": 0.02252069,
+              "OutSlope": 0.02252069
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.008834718,
+              "InSlope": 0.00021544869,
+              "OutSlope": 0.00021544869
+            },
+            {
+              "Frame": 6.0,
+              "Value": 0.005903736,
+              "InSlope": -0.0016134885,
+              "OutSlope": -0.0016134885
+            },
+            {
+              "Frame": 10.0,
+              "Value": 0.00038490247,
+              "InSlope": -0.00025695897,
+              "OutSlope": -0.00025695897
+            },
+            {
+              "Frame": 15.0,
+              "Value": 0.0092614805,
+              "InSlope": 0.003968727,
+              "OutSlope": 0.003968727
+            },
+            {
+              "Frame": 20.0,
+              "Value": 0.031047769,
+              "InSlope": 0.0025540027,
+              "OutSlope": 0.0025540027
+            },
+            {
+              "Frame": 24.0,
+              "Value": 0.0293926,
+              "InSlope": -0.0037837506,
+              "OutSlope": -0.0037837506
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.0102092195,
+              "InSlope": -0.002893076,
+              "OutSlope": -0.002893076
+            },
+            {
+              "Frame": 30.0,
+              "Value": 0.007437386,
+              "InSlope": -0.0011744275,
+              "OutSlope": -0.0011744275
+            },
+            {
+              "Frame": 35.0,
+              "Value": 0.0005905994,
+              "InSlope": -0.0009186971,
+              "OutSlope": -0.0009186971
+            },
+            {
+              "Frame": 42.0,
+              "Value": 0.002222065,
+              "InSlope": 0.0012279521,
+              "OutSlope": 0.0012279521
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.00829474,
+              "InSlope": 0.00088910724,
+              "OutSlope": 0.00088910724
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 65994752,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_knee",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.5388117,
+              "InSlope": 0.038577817,
+              "OutSlope": 0.038577817
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.5773895,
+              "InSlope": 0.04095852,
+              "OutSlope": 0.04095852
+            },
+            {
+              "Frame": 3.0,
+              "Value": 0.66663367,
+              "InSlope": 0.046468534,
+              "OutSlope": 0.046468534
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.7136658,
+              "InSlope": 0.047157593,
+              "OutSlope": 0.047157593
+            },
+            {
+              "Frame": 5.0,
+              "Value": 0.7609489,
+              "InSlope": 0.059351675,
+              "OutSlope": 0.059351675
+            },
+            {
+              "Frame": 6.0,
+              "Value": 0.83236915,
+              "InSlope": 0.08845743,
+              "OutSlope": 0.08845743
+            },
+            {
+              "Frame": 7.0,
+              "Value": 0.9378637,
+              "InSlope": 0.11265078,
+              "OutSlope": 0.11265078
+            },
+            {
+              "Frame": 8.0,
+              "Value": 1.0576707,
+              "InSlope": 0.11961208,
+              "OutSlope": 0.11961208
+            },
+            {
+              "Frame": 9.0,
+              "Value": 1.1770879,
+              "InSlope": 0.11409042,
+              "OutSlope": 0.11409042
+            },
+            {
+              "Frame": 10.0,
+              "Value": 1.2858515,
+              "InSlope": 0.099777594,
+              "OutSlope": 0.099777594
+            },
+            {
+              "Frame": 12.0,
+              "Value": 1.4502791,
+              "InSlope": 0.065873355,
+              "OutSlope": 0.065873355
+            },
+            {
+              "Frame": 14.0,
+              "Value": 1.5468333,
+              "InSlope": 0.027006783,
+              "OutSlope": 0.027006783
+            },
+            {
+              "Frame": 15.0,
+              "Value": 1.5624033,
+              "InSlope": 0.0033047833,
+              "OutSlope": 0.0033047833
+            },
+            {
+              "Frame": 16.0,
+              "Value": 1.5534428,
+              "InSlope": -0.021114472,
+              "OutSlope": -0.021114472
+            },
+            {
+              "Frame": 17.0,
+              "Value": 1.5201744,
+              "InSlope": -0.044339966,
+              "OutSlope": -0.044339966
+            },
+            {
+              "Frame": 19.0,
+              "Value": 1.391061,
+              "InSlope": -0.08023126,
+              "OutSlope": -0.08023126
+            },
+            {
+              "Frame": 21.0,
+              "Value": 1.2109194,
+              "InSlope": -0.09289379,
+              "OutSlope": -0.09289379
+            },
+            {
+              "Frame": 22.0,
+              "Value": 1.1185129,
+              "InSlope": -0.087420024,
+              "OutSlope": -0.087420024
+            },
+            {
+              "Frame": 24.0,
+              "Value": 0.94133025,
+              "InSlope": -0.111718744,
+              "OutSlope": -0.111718744
+            },
+            {
+              "Frame": 25.0,
+              "Value": 0.8126418,
+              "InSlope": -0.1403871,
+              "OutSlope": -0.1403871
+            },
+            {
+              "Frame": 26.0,
+              "Value": 0.660556,
+              "InSlope": -0.15532409,
+              "OutSlope": -0.15532409
+            },
+            {
+              "Frame": 27.0,
+              "Value": 0.50199366,
+              "InSlope": -0.13955231,
+              "OutSlope": -0.13955231
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.38145143,
+              "InSlope": -0.05314654,
+              "OutSlope": -0.05314654
+            },
+            {
+              "Frame": 29.0,
+              "Value": 0.39570057,
+              "InSlope": 0.052488092,
+              "OutSlope": 0.052488092
+            },
+            {
+              "Frame": 30.0,
+              "Value": 0.4864276,
+              "InSlope": 0.07825229,
+              "OutSlope": 0.07825229
+            },
+            {
+              "Frame": 31.0,
+              "Value": 0.55220515,
+              "InSlope": 0.0553694,
+              "OutSlope": 0.0553694
+            },
+            {
+              "Frame": 33.0,
+              "Value": 0.6234404,
+              "InSlope": 0.017723903,
+              "OutSlope": 0.017723903
+            },
+            {
+              "Frame": 34.0,
+              "Value": 0.6326142,
+              "InSlope": 0.0013419669,
+              "OutSlope": 0.0013419669
+            },
+            {
+              "Frame": 36.0,
+              "Value": 0.61134386,
+              "InSlope": -0.015646137,
+              "OutSlope": -0.015646137
+            },
+            {
+              "Frame": 39.0,
+              "Value": 0.55773175,
+              "InSlope": -0.0192958,
+              "OutSlope": -0.0192958
+            },
+            {
+              "Frame": 42.0,
+              "Value": 0.50211936,
+              "InSlope": -0.015410132,
+              "OutSlope": -0.015410132
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.48816818,
+              "InSlope": 0.014225275,
+              "OutSlope": 0.014225275
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.5078828,
+              "InSlope": 0.019714616,
+              "OutSlope": 0.019714616
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63373312,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_ankle",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 9.297744E-05,
+              "InSlope": -6.1176306E-06,
+              "OutSlope": -6.1176306E-06
+            },
+            {
+              "Frame": 20.0,
+              "Value": 0.00039499262,
+              "InSlope": -3.700749E-05,
+              "OutSlope": -3.700749E-05
+            },
+            {
+              "Frame": 35.0,
+              "Value": 0.00036477236,
+              "InSlope": 1.5153637E-05,
+              "OutSlope": 1.5153637E-05
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.000103711514,
+              "InSlope": -1.5159326E-05,
+              "OutSlope": -1.5159326E-05
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.02312213,
+              "InSlope": 0.02070783,
+              "OutSlope": 0.02070783
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.0024142992,
+              "InSlope": 0.017189302,
+              "OutSlope": 0.017189302
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.017493708,
+              "InSlope": -0.004351519,
+              "OutSlope": -0.004351519
+            },
+            {
+              "Frame": 5.0,
+              "Value": 0.00927777,
+              "InSlope": -0.019891039,
+              "OutSlope": -0.019891039
+            },
+            {
+              "Frame": 6.0,
+              "Value": -0.022288365,
+              "InSlope": -0.04634027,
+              "OutSlope": -0.04634027
+            },
+            {
+              "Frame": 7.0,
+              "Value": -0.083402775,
+              "InSlope": -0.06934804,
+              "OutSlope": -0.06934804
+            },
+            {
+              "Frame": 8.0,
+              "Value": -0.16098444,
+              "InSlope": -0.08047487,
+              "OutSlope": -0.08047487
+            },
+            {
+              "Frame": 9.0,
+              "Value": -0.2443525,
+              "InSlope": -0.08219809,
+              "OutSlope": -0.08219809
+            },
+            {
+              "Frame": 10.0,
+              "Value": -0.32538062,
+              "InSlope": -0.07691738,
+              "OutSlope": -0.07691738
+            },
+            {
+              "Frame": 12.0,
+              "Value": -0.45999083,
+              "InSlope": -0.055288173,
+              "OutSlope": -0.055288173
+            },
+            {
+              "Frame": 13.0,
+              "Value": -0.5087636,
+              "InSlope": -0.04121177,
+              "OutSlope": -0.04121177
+            },
+            {
+              "Frame": 14.0,
+              "Value": -0.54241437,
+              "InSlope": -0.025932414,
+              "OutSlope": -0.025932414
+            },
+            {
+              "Frame": 15.0,
+              "Value": -0.5606284,
+              "InSlope": -0.011295215,
+              "OutSlope": -0.011295215
+            },
+            {
+              "Frame": 19.0,
+              "Value": -0.52765137,
+              "InSlope": 0.017772239,
+              "OutSlope": 0.017772239
+            },
+            {
+              "Frame": 21.0,
+              "Value": -0.49271992,
+              "InSlope": 0.014817279,
+              "OutSlope": 0.014817279
+            },
+            {
+              "Frame": 22.0,
+              "Value": -0.47980273,
+              "InSlope": 0.009610366,
+              "OutSlope": 0.009610366
+            },
+            {
+              "Frame": 23.0,
+              "Value": -0.47349918,
+              "InSlope": 0.019343821,
+              "OutSlope": 0.019343821
+            },
+            {
+              "Frame": 24.0,
+              "Value": -0.44111508,
+              "InSlope": 0.056423794,
+              "OutSlope": 0.056423794
+            },
+            {
+              "Frame": 25.0,
+              "Value": -0.36065158,
+              "InSlope": 0.09482416,
+              "OutSlope": 0.09482416
+            },
+            {
+              "Frame": 26.0,
+              "Value": -0.25146678,
+              "InSlope": 0.11182818,
+              "OutSlope": 0.11182818
+            },
+            {
+              "Frame": 27.0,
+              "Value": -0.13699524,
+              "InSlope": 0.09756436,
+              "OutSlope": 0.09756436
+            },
+            {
+              "Frame": 28.0,
+              "Value": -0.056338046,
+              "InSlope": 0.02972275,
+              "OutSlope": 0.02972275
+            },
+            {
+              "Frame": 29.0,
+              "Value": -0.07754973,
+              "InSlope": -0.052823693,
+              "OutSlope": -0.052823693
+            },
+            {
+              "Frame": 30.0,
+              "Value": -0.16198543,
+              "InSlope": -0.07899248,
+              "OutSlope": -0.07899248
+            },
+            {
+              "Frame": 32.0,
+              "Value": -0.29871464,
+              "InSlope": -0.05765459,
+              "OutSlope": -0.05765459
+            },
+            {
+              "Frame": 35.0,
+              "Value": -0.41775522,
+              "InSlope": -0.019791182,
+              "OutSlope": -0.019791182
+            },
+            {
+              "Frame": 38.0,
+              "Value": -0.4167045,
+              "InSlope": 0.018314674,
+              "OutSlope": 0.018314674
+            },
+            {
+              "Frame": 41.0,
+              "Value": -0.32028604,
+              "InSlope": 0.042659905,
+              "OutSlope": 0.042659905
+            },
+            {
+              "Frame": 44.0,
+              "Value": -0.17758298,
+              "InSlope": 0.048106402,
+              "OutSlope": 0.048106402
+            },
+            {
+              "Frame": 46.0,
+              "Value": -0.08754578,
+              "InSlope": 0.039569877,
+              "OutSlope": 0.039569877
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.05126266,
+              "InSlope": 0.036283124,
+              "OutSlope": 0.036283124
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.00040677568,
+              "InSlope": -1.0891067E-05,
+              "OutSlope": -1.0891067E-05
+            },
+            {
+              "Frame": 20.0,
+              "Value": -0.0005926507,
+              "InSlope": 4.3391774E-05,
+              "OutSlope": 4.3391774E-05
+            },
+            {
+              "Frame": 44.0,
+              "Value": -0.00043310112,
+              "InSlope": 1.9211317E-05,
+              "OutSlope": 1.9211317E-05
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.00040446434,
+              "InSlope": 2.601621E-06,
+              "OutSlope": 2.601621E-06
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 65994752,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "back_skirt1",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.17109883,
+              "InSlope": -0.009494269,
+              "OutSlope": -0.009494269
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.16160455,
+              "InSlope": -0.011918336,
+              "OutSlope": -0.011918336
+            },
+            {
+              "Frame": 9.0,
+              "Value": 0.012928363,
+              "InSlope": -0.011918334,
+              "OutSlope": -0.011918334
+            },
+            {
+              "Frame": 11.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 16.0,
+              "Value": 0.06565184,
+              "InSlope": 0.021008592,
+              "OutSlope": 0.021008592
+            },
+            {
+              "Frame": 22.0,
+              "Value": 0.17109883,
+              "InSlope": 0.006464183,
+              "OutSlope": 0.006464183
+            },
+            {
+              "Frame": 23.0,
+              "Value": 0.17453292,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.10888111,
+              "InSlope": -0.021008592,
+              "OutSlope": -0.021008592
+            },
+            {
+              "Frame": 34.0,
+              "Value": 0.0034341137,
+              "InSlope": -0.0064641917,
+              "OutSlope": -0.0064641917
+            },
+            {
+              "Frame": 35.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 40.0,
+              "Value": 0.065651834,
+              "InSlope": 0.021008573,
+              "OutSlope": 0.021008573
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.17109883,
+              "InSlope": 0.006464191,
+              "OutSlope": 0.006464191
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.17453292,
+              "InSlope": 0.0034340962,
+              "OutSlope": 0.0034340962
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 64946176,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "back_skirt2",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.3038166,
+              "InSlope": 0.0179785,
+              "OutSlope": 0.0179785
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.32179508,
+              "InSlope": 0.016160443,
+              "OutSlope": 0.016160443
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.34906584,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 9.0,
+              "Value": 0.283414,
+              "InSlope": -0.021008596,
+              "OutSlope": -0.021008596
+            },
+            {
+              "Frame": 15.0,
+              "Value": 0.17796703,
+              "InSlope": -0.006464183,
+              "OutSlope": -0.006464183
+            },
+            {
+              "Frame": 16.0,
+              "Value": 0.17453292,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 21.0,
+              "Value": 0.24018478,
+              "InSlope": 0.021008596,
+              "OutSlope": 0.021008596
+            },
+            {
+              "Frame": 27.0,
+              "Value": 0.34563178,
+              "InSlope": 0.0064641745,
+              "OutSlope": 0.0064641745
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.34906584,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 33.0,
+              "Value": 0.283414,
+              "InSlope": -0.021008572,
+              "OutSlope": -0.021008572
+            },
+            {
+              "Frame": 39.0,
+              "Value": 0.17796703,
+              "InSlope": -0.006464191,
+              "OutSlope": -0.006464191
+            },
+            {
+              "Frame": 40.0,
+              "Value": 0.17453292,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 45.0,
+              "Value": 0.24018475,
+              "InSlope": 0.021008613,
+              "OutSlope": 0.021008613
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.283414,
+              "InSlope": 0.021614581,
+              "OutSlope": 0.021614581
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 65994752,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "front_skirt1",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.25664824,
+              "InSlope": 0.014241404,
+              "OutSlope": 0.014241404
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.24240683,
+              "InSlope": 0.0178775,
+              "OutSlope": 0.0178775
+            },
+            {
+              "Frame": 7.0,
+              "Value": -0.0678739,
+              "InSlope": 0.028785815,
+              "OutSlope": 0.028785815
+            },
+            {
+              "Frame": 11.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 15.0,
+              "Value": -0.06787393,
+              "InSlope": -0.028785806,
+              "OutSlope": -0.028785806
+            },
+            {
+              "Frame": 21.0,
+              "Value": -0.24240685,
+              "InSlope": -0.01787751,
+              "OutSlope": -0.01787751
+            },
+            {
+              "Frame": 23.0,
+              "Value": -0.2617994,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 27.0,
+              "Value": -0.19392549,
+              "InSlope": 0.0287858,
+              "OutSlope": 0.0287858
+            },
+            {
+              "Frame": 33.0,
+              "Value": -0.019392574,
+              "InSlope": 0.017877499,
+              "OutSlope": 0.017877499
+            },
+            {
+              "Frame": 35.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 39.0,
+              "Value": -0.06787392,
+              "InSlope": -0.028785829,
+              "OutSlope": -0.028785829
+            },
+            {
+              "Frame": 45.0,
+              "Value": -0.24240682,
+              "InSlope": -0.017877517,
+              "OutSlope": -0.017877517
+            },
+            {
+              "Frame": 46.0,
+              "Value": -0.25664824,
+              "InSlope": -0.009696286,
+              "OutSlope": -0.009696286
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.2617994,
+              "InSlope": -0.005151136,
+              "OutSlope": -0.005151136
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 64946176,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "front_skirt2",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.19392547,
+              "InSlope": 0.026967768,
+              "OutSlope": 0.026967768
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.22089323,
+              "InSlope": 0.024240684,
+              "OutSlope": 0.024240684
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.2617994,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 8.0,
+              "Value": 0.19392547,
+              "InSlope": -0.028785817,
+              "OutSlope": -0.028785817
+            },
+            {
+              "Frame": 14.0,
+              "Value": 0.019392546,
+              "InSlope": -0.017877506,
+              "OutSlope": -0.017877506
+            },
+            {
+              "Frame": 16.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 20.0,
+              "Value": 0.06787392,
+              "InSlope": 0.028785815,
+              "OutSlope": 0.028785815
+            },
+            {
+              "Frame": 26.0,
+              "Value": 0.24240685,
+              "InSlope": 0.0178775,
+              "OutSlope": 0.0178775
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.2617994,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 32.0,
+              "Value": 0.19392543,
+              "InSlope": -0.028785791,
+              "OutSlope": -0.028785791
+            },
+            {
+              "Frame": 38.0,
+              "Value": 0.019392574,
+              "InSlope": -0.017877515,
+              "OutSlope": -0.017877515
+            },
+            {
+              "Frame": 40.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 44.0,
+              "Value": 0.06787392,
+              "InSlope": 0.028785786,
+              "OutSlope": 0.028785786
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.13089976,
+              "InSlope": 0.032421943,
+              "OutSlope": 0.032421943
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.16332163,
+              "InSlope": 0.03242188,
+              "OutSlope": 0.03242188
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 66519040,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "waist",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.051829614,
+              "InSlope": -0.0015301941,
+              "OutSlope": -0.0015301941
+            },
+            {
+              "Frame": 2.0,
+              "Value": 0.0478602,
+              "InSlope": -0.00284828,
+              "OutSlope": -0.00284828
+            },
+            {
+              "Frame": 23.0,
+              "Value": -0.05235988,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.051829614,
+              "InSlope": 0.0010302314,
+              "OutSlope": 0.0010302314
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.05235988,
+              "InSlope": 0.0005302645,
+              "OutSlope": 0.0005302645
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 63373824,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_shoulder",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.2600201,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.3464004,
+              "InSlope": -0.007650962,
+              "OutSlope": -0.007650962
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.33874947,
+              "InSlope": -0.0099235205,
+              "OutSlope": -0.0099235205
+            },
+            {
+              "Frame": 22.0,
+              "Value": -0.1718957,
+              "InSlope": -0.005151144,
+              "OutSlope": -0.005151144
+            },
+            {
+              "Frame": 25.0,
+              "Value": -0.16424473,
+              "InSlope": 0.0099235205,
+              "OutSlope": 0.0099235205
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.3464004,
+              "InSlope": 0.0051511694,
+              "OutSlope": 0.0051511694
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.34905177,
+              "InSlope": 0.0026513434,
+              "OutSlope": 0.0026513434
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -2.7065933,
+              "InSlope": -0.0038253646,
+              "OutSlope": -0.0038253646
+            },
+            {
+              "Frame": 1.0,
+              "Value": -2.7104187,
+              "InSlope": -0.0049617356,
+              "OutSlope": -0.0049617356
+            },
+            {
+              "Frame": 23.0,
+              "Value": -2.9670665,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 46.0,
+              "Value": -2.7065933,
+              "InSlope": 0.002575543,
+              "OutSlope": 0.002575543
+            },
+            {
+              "Frame": 47.0,
+              "Value": -2.7052674,
+              "InSlope": 0.0013257216,
+              "OutSlope": 0.0013257216
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 65994752,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_elbow",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.11955729,
+              "InSlope": 0.01357226,
+              "OutSlope": 0.01357226
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.10598503,
+              "InSlope": 0.011867836,
+              "OutSlope": 0.011867836
+            },
+            {
+              "Frame": 4.0,
+              "Value": -0.087236375,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 22.0,
+              "Value": -0.45539176,
+              "InSlope": -0.020389944,
+              "OutSlope": -0.020389944
+            },
+            {
+              "Frame": 28.0,
+              "Value": -0.5235687,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 46.0,
+              "Value": -0.15541326,
+              "InSlope": 0.020389965,
+              "OutSlope": 0.020389965
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.13615961,
+              "InSlope": 0.019253647,
+              "OutSlope": 0.019253647
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_hand1",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 4252096,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "L_handItem",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.30769092,
+              "InSlope": -0.0053543854,
+              "OutSlope": -0.0053543854
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.3130453,
+              "InSlope": -0.0015810854,
+              "OutSlope": -0.0015810854
+            },
+            {
+              "Frame": 5.0,
+              "Value": -0.259363,
+              "InSlope": 0.02803265,
+              "OutSlope": 0.02803265
+            },
+            {
+              "Frame": 11.0,
+              "Value": 0.011258464,
+              "InSlope": 0.058247246,
+              "OutSlope": 0.058247246
+            },
+            {
+              "Frame": 15.0,
+              "Value": 0.26018298,
+              "InSlope": 0.0632876,
+              "OutSlope": 0.0632876
+            },
+            {
+              "Frame": 21.0,
+              "Value": 0.5833236,
+              "InSlope": 0.036999963,
+              "OutSlope": 0.036999963
+            },
+            {
+              "Frame": 24.0,
+              "Value": 0.6554087,
+              "InSlope": 0.009865747,
+              "OutSlope": 0.009865747
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.6194236,
+              "InSlope": -0.027271135,
+              "OutSlope": -0.027271135
+            },
+            {
+              "Frame": 33.0,
+              "Value": 0.39385286,
+              "InSlope": -0.057791878,
+              "OutSlope": -0.057791878
+            },
+            {
+              "Frame": 37.0,
+              "Value": 0.14907591,
+              "InSlope": -0.061380256,
+              "OutSlope": -0.061380256
+            },
+            {
+              "Frame": 42.0,
+              "Value": -0.12876134,
+              "InSlope": -0.046784587,
+              "OutSlope": -0.046784587
+            },
+            {
+              "Frame": 46.0,
+              "Value": -0.27417856,
+              "InSlope": -0.024037832,
+              "OutSlope": -0.024037832
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.2947212,
+              "InSlope": -0.020542609,
+              "OutSlope": -0.020542609
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.057983287,
+              "InSlope": 0.0015621978,
+              "OutSlope": 0.0015621978
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.059545483,
+              "InSlope": 0.004085104,
+              "OutSlope": 0.004085104
+            },
+            {
+              "Frame": 5.0,
+              "Value": 0.11278785,
+              "InSlope": 0.021221861,
+              "OutSlope": 0.021221861
+            },
+            {
+              "Frame": 12.0,
+              "Value": 0.29648408,
+              "InSlope": 0.024603672,
+              "OutSlope": 0.024603672
+            },
+            {
+              "Frame": 16.0,
+              "Value": 0.37344816,
+              "InSlope": 0.013054832,
+              "OutSlope": 0.013054832
+            },
+            {
+              "Frame": 20.0,
+              "Value": 0.40239275,
+              "InSlope": 0.002533232,
+              "OutSlope": 0.002533232
+            },
+            {
+              "Frame": 24.0,
+              "Value": 0.4034678,
+              "InSlope": -0.00076307886,
+              "OutSlope": -0.00076307886
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.39855924,
+              "InSlope": -0.0023909027,
+              "OutSlope": -0.0023909027
+            },
+            {
+              "Frame": 32.0,
+              "Value": 0.37530515,
+              "InSlope": -0.010645936,
+              "OutSlope": -0.010645936
+            },
+            {
+              "Frame": 35.0,
+              "Value": 0.32971913,
+              "InSlope": -0.01975358,
+              "OutSlope": -0.01975358
+            },
+            {
+              "Frame": 39.0,
+              "Value": 0.23175927,
+              "InSlope": -0.02748116,
+              "OutSlope": -0.02748116
+            },
+            {
+              "Frame": 45.0,
+              "Value": 0.08501785,
+              "InSlope": -0.01622961,
+              "OutSlope": -0.01622961
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.070915565,
+              "InSlope": -0.011637619,
+              "OutSlope": -0.011637619
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.06174262,
+              "InSlope": -0.00917295,
+              "OutSlope": -0.00917295
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.2007195,
+              "InSlope": 0.0005530054,
+              "OutSlope": 0.0005530054
+            },
+            {
+              "Frame": 2.0,
+              "Value": 1.2027998,
+              "InSlope": 0.0020649484,
+              "OutSlope": 0.0020649484
+            },
+            {
+              "Frame": 8.0,
+              "Value": 1.2453338,
+              "InSlope": 0.014234795,
+              "OutSlope": 0.014234795
+            },
+            {
+              "Frame": 12.0,
+              "Value": 1.3264143,
+              "InSlope": 0.025980068,
+              "OutSlope": 0.025980068
+            },
+            {
+              "Frame": 16.0,
+              "Value": 1.4443958,
+              "InSlope": 0.030806981,
+              "OutSlope": 0.030806981
+            },
+            {
+              "Frame": 21.0,
+              "Value": 1.5755402,
+              "InSlope": 0.017906163,
+              "OutSlope": 0.017906163
+            },
+            {
+              "Frame": 24.0,
+              "Value": 1.6065699,
+              "InSlope": 0.0021387846,
+              "OutSlope": 0.0021387846
+            },
+            {
+              "Frame": 28.0,
+              "Value": 1.5733243,
+              "InSlope": -0.017988589,
+              "OutSlope": -0.017988589
+            },
+            {
+              "Frame": 33.0,
+              "Value": 1.4419142,
+              "InSlope": -0.030924426,
+              "OutSlope": -0.030924426
+            },
+            {
+              "Frame": 37.0,
+              "Value": 1.3230993,
+              "InSlope": -0.026247583,
+              "OutSlope": -0.026247583
+            },
+            {
+              "Frame": 41.0,
+              "Value": 1.2412118,
+              "InSlope": -0.014275875,
+              "OutSlope": -0.014275875
+            },
+            {
+              "Frame": 46.0,
+              "Value": 1.2029418,
+              "InSlope": -0.0024960476,
+              "OutSlope": -0.0024960476
+            },
+            {
+              "Frame": 47.0,
+              "Value": 1.201204,
+              "InSlope": -0.0017378457,
+              "OutSlope": -0.0017378457
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": true,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 63373824,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_shoulder",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 2.8815687,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.17145333,
+              "InSlope": 0.008926117,
+              "OutSlope": 0.008926117
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.1625272,
+              "InSlope": 0.011577452,
+              "OutSlope": 0.011577452
+            },
+            {
+              "Frame": 21.0,
+              "Value": 0.42429936,
+              "InSlope": 0.011577443,
+              "OutSlope": 0.011577443
+            },
+            {
+              "Frame": 24.0,
+              "Value": 0.4332255,
+              "InSlope": -0.006009673,
+              "OutSlope": -0.006009673
+            },
+            {
+              "Frame": 44.0,
+              "Value": -0.14829843,
+              "InSlope": -0.016614959,
+              "OutSlope": -0.016614959
+            },
+            {
+              "Frame": 46.0,
+              "Value": -0.17145334,
+              "InSlope": -0.006009673,
+              "OutSlope": -0.006009673
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.17454654,
+              "InSlope": -0.003093195,
+              "OutSlope": -0.003093195
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 2.9657416,
+              "InSlope": -0.0038253646,
+              "OutSlope": -0.0038253646
+            },
+            {
+              "Frame": 1.0,
+              "Value": 2.9619164,
+              "InSlope": -0.0049617356,
+              "OutSlope": -0.0049617356
+            },
+            {
+              "Frame": 23.0,
+              "Value": 2.7052689,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 46.0,
+              "Value": 2.9657416,
+              "InSlope": 0.002575543,
+              "OutSlope": 0.002575543
+            },
+            {
+              "Frame": 47.0,
+              "Value": 2.9670675,
+              "InSlope": 0.0013257216,
+              "OutSlope": 0.0013257216
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 65994752,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_elbow",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.49126136,
+              "InSlope": 0.013572268,
+              "OutSlope": 0.013572268
+            },
+            {
+              "Frame": 1.0,
+              "Value": 0.50483364,
+              "InSlope": 0.0118678445,
+              "OutSlope": 0.0118678445
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.5235823,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 22.0,
+              "Value": 0.1554269,
+              "InSlope": -0.020389952,
+              "OutSlope": -0.020389952
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.08724999,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 46.0,
+              "Value": 0.4554054,
+              "InSlope": 0.02038996,
+              "OutSlope": 0.02038996
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.47465906,
+              "InSlope": 0.019253656,
+              "OutSlope": 0.019253656
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": true,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_hand1",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 4252096,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "R_handItem",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -2.4848313,
+              "InSlope": 0.0037007285,
+              "OutSlope": 0.0037007285
+            },
+            {
+              "Frame": 1.0,
+              "Value": -2.4811306,
+              "InSlope": -0.0014387728,
+              "OutSlope": -0.0014387728
+            },
+            {
+              "Frame": 4.0,
+              "Value": -2.5306818,
+              "InSlope": -0.031028224,
+              "OutSlope": -0.031028224
+            },
+            {
+              "Frame": 9.0,
+              "Value": -2.779315,
+              "InSlope": -0.06274767,
+              "OutSlope": -0.06274767
+            },
+            {
+              "Frame": 13.0,
+              "Value": -3.0428998,
+              "InSlope": -0.065673284,
+              "OutSlope": -0.065673284
+            },
+            {
+              "Frame": 18.0,
+              "Value": -3.338865,
+              "InSlope": -0.049644783,
+              "OutSlope": -0.049644783
+            },
+            {
+              "Frame": 23.0,
+              "Value": -3.5131266,
+              "InSlope": -0.016845692,
+              "OutSlope": -0.016845692
+            },
+            {
+              "Frame": 28.0,
+              "Value": -3.494277,
+              "InSlope": 0.02392424,
+              "OutSlope": 0.02392424
+            },
+            {
+              "Frame": 35.0,
+              "Value": -3.170662,
+              "InSlope": 0.062923305,
+              "OutSlope": 0.062923305
+            },
+            {
+              "Frame": 39.0,
+              "Value": -2.9027424,
+              "InSlope": 0.06792352,
+              "OutSlope": 0.06792352
+            },
+            {
+              "Frame": 45.0,
+              "Value": -2.558318,
+              "InSlope": 0.0387691,
+              "OutSlope": 0.0387691
+            },
+            {
+              "Frame": 46.0,
+              "Value": -2.5238407,
+              "InSlope": 0.029629664,
+              "OutSlope": 0.029629664
+            },
+            {
+              "Frame": 47.0,
+              "Value": -2.4990587,
+              "InSlope": 0.024782045,
+              "OutSlope": 0.024782045
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.4052391,
+              "InSlope": -0.00095417735,
+              "OutSlope": -0.00095417735
+            },
+            {
+              "Frame": 4.0,
+              "Value": 0.39912647,
+              "InSlope": -0.0030305774,
+              "OutSlope": -0.0030305774
+            },
+            {
+              "Frame": 8.0,
+              "Value": 0.3710987,
+              "InSlope": -0.012462329,
+              "OutSlope": -0.012462329
+            },
+            {
+              "Frame": 11.0,
+              "Value": 0.31878597,
+              "InSlope": -0.022323549,
+              "OutSlope": -0.022323549
+            },
+            {
+              "Frame": 15.0,
+              "Value": 0.21019424,
+              "InSlope": -0.029953638,
+              "OutSlope": -0.029953638
+            },
+            {
+              "Frame": 21.0,
+              "Value": 0.05418734,
+              "InSlope": -0.016660469,
+              "OutSlope": -0.016660469
+            },
+            {
+              "Frame": 24.0,
+              "Value": 0.027523113,
+              "InSlope": -0.00047013114,
+              "OutSlope": -0.00047013114
+            },
+            {
+              "Frame": 28.0,
+              "Value": 0.06722431,
+              "InSlope": 0.019194867,
+              "OutSlope": 0.019194867
+            },
+            {
+              "Frame": 37.0,
+              "Value": 0.31307137,
+              "InSlope": 0.02427631,
+              "OutSlope": 0.02427631
+            },
+            {
+              "Frame": 40.0,
+              "Value": 0.37165478,
+              "InSlope": 0.014373346,
+              "OutSlope": 0.014373346
+            },
+            {
+              "Frame": 44.0,
+              "Value": 0.40375948,
+              "InSlope": 0.0028830217,
+              "OutSlope": 0.0028830217
+            },
+            {
+              "Frame": 47.0,
+              "Value": 0.4059664,
+              "InSlope": -0.0002771685,
+              "OutSlope": -0.0002771685
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -1.5350713,
+              "InSlope": -0.000860201,
+              "OutSlope": -0.000860201
+            },
+            {
+              "Frame": 1.0,
+              "Value": -1.5359313,
+              "InSlope": -0.003577957,
+              "OutSlope": -0.003577957
+            },
+            {
+              "Frame": 5.0,
+              "Value": -1.5909517,
+              "InSlope": -0.02278261,
+              "OutSlope": -0.02278261
+            },
+            {
+              "Frame": 12.0,
+              "Value": -1.793648,
+              "InSlope": -0.02734454,
+              "OutSlope": -0.02734454
+            },
+            {
+              "Frame": 15.0,
+              "Value": -1.8631346,
+              "InSlope": -0.018366624,
+              "OutSlope": -0.018366624
+            },
+            {
+              "Frame": 19.0,
+              "Value": -1.9108666,
+              "InSlope": -0.0062694806,
+              "OutSlope": -0.0062694806
+            },
+            {
+              "Frame": 24.0,
+              "Value": -1.922127,
+              "InSlope": -5.3196643E-05,
+              "OutSlope": -5.3196643E-05
+            },
+            {
+              "Frame": 28.0,
+              "Value": -1.9181392,
+              "InSlope": 0.0027974509,
+              "OutSlope": 0.0027974509
+            },
+            {
+              "Frame": 33.0,
+              "Value": -1.8772938,
+              "InSlope": 0.015336545,
+              "OutSlope": 0.015336545
+            },
+            {
+              "Frame": 36.0,
+              "Value": -1.8163455,
+              "InSlope": 0.025019666,
+              "OutSlope": 0.025019666
+            },
+            {
+              "Frame": 40.0,
+              "Value": -1.6995572,
+              "InSlope": 0.031039808,
+              "OutSlope": 0.031039808
+            },
+            {
+              "Frame": 45.0,
+              "Value": -1.5663561,
+              "InSlope": 0.018211229,
+              "OutSlope": 0.018211229
+            },
+            {
+              "Frame": 46.0,
+              "Value": -1.5504699,
+              "InSlope": 0.013234778,
+              "OutSlope": 0.013234778
+            },
+            {
+              "Frame": 47.0,
+              "Value": -1.5398865,
+              "InSlope": 0.010583402,
+              "OutSlope": 0.010583402
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -1.797723E-06,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -6.543231E-06,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": true,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 67043328,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "neck",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [],
+          "Exists": false
+        },
+        "ScaleExists": false,
+        "RotationExists": false,
+        "TranslationExists": false
+      }
+    },
+    {
+      "Flags": 4255168,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "waistItem",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 47.0,
+          "IsLinear": false,
+          "Quantization": 3,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": -0.08638269,
+              "InSlope": 0.002550318,
+              "OutSlope": 0.002550318
+            },
+            {
+              "Frame": 1.0,
+              "Value": -0.08383237,
+              "InSlope": 0.0033078417,
+              "OutSlope": 0.0033078417
+            },
+            {
+              "Frame": 23.0,
+              "Value": 0.08726646,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            },
+            {
+              "Frame": 46.0,
+              "Value": -0.086382695,
+              "InSlope": -0.0017170523,
+              "OutSlope": -0.0017170523
+            },
+            {
+              "Frame": 47.0,
+              "Value": -0.08726646,
+              "InSlope": -0.00088377,
+              "OutSlope": -0.00088377
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": true,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    },
+    {
+      "Flags": 4255680,
+      "Name2": null,
+      "Dummy": 0,
+      "PrimitiveType": 5,
+      "Name": "shadow",
+      "Content": {
+        "$type": "SPICA.Formats.CtrGfx.Animation.GfxAnimTransform, SPICA",
+        "ScaleX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 1.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "RotationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationX": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationY": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "TranslationZ": {
+          "PreRepeat": 0,
+          "PostRepeat": 0,
+          "StartFrame": 0.0,
+          "EndFrame": 0.0,
+          "IsLinear": false,
+          "Quantization": 0,
+          "KeyFrames": [
+            {
+              "Frame": 0.0,
+              "Value": 0.0,
+              "InSlope": 0.0,
+              "OutSlope": 0.0
+            }
+          ],
+          "Exists": true
+        },
+        "ScaleExists": true,
+        "RotationExists": true,
+        "TranslationExists": true
+      }
+    }
+  ],
+  "MetaData": [],
+  "Name": "bodySpShopMnqnPose01"
+}
